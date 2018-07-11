@@ -28,7 +28,6 @@
 1462-317X=O # Political theology   
 1743-1719=O # Political theology   
 0360-6503=O # Process studies  
-03606503 :O # Process studies	
 0733-4273=O # Journal of psychology and Christianity
 07334273=O # Journal of psychology and Christianity
 0929-0761=A # Dead Sea discoveries   
@@ -371,8 +370,7 @@ ARC=A # ARC
 0044-3441=A # Zeitschrift für Religions- und Geistesgeschichte
 1862-5886=O # Zeitschrift für junge Religionswissenschaft
 1612-2941=O # Marburg Journal of Religion
-0017-2251:  A # Christian scholar’s review
-00172251:  A # Christian scholar’s review
+0017-2251=A # Christian scholar’s review
 0774-5524=A # Questions liturgiques
 1861-5813=O # Online - Heidelberg Journal of Religions on the Internet
 1783-1806=O # Studies in Interreligious Dialogue
@@ -647,7 +645,7 @@ Calvin Theological Journal=O # Calvin Theological Journal
 1120267X=A # Teologia, rivista della Facoltà Teologica dell'Italia Settentrionale
 20536267=A # The Huguenot Society Journal
 0340-6210=A # Luther
-0026587X :A # Miscellanea Francescana
+0026587X=A # Miscellanea Francescana
 0340-6407=A # Oriens Christianus
 0030-6487=A # Ostkirchliche Studien
 1529-1634=A # Philosophia Christi
@@ -678,7 +676,7 @@ Calvin Theological Journal=O # Calvin Theological Journal
 2049-7555=A , # Journal for the Cognitive Science of Religion
 2049-7563=A , # Journal for the Cognitive Science of Religion
 21568022=O # Mormon studies Review
-2041-1863, 2041-1871 :O # Bulletin for the Study of Religion
+2041-1863, 2041-1871=O # Bulletin for the Study of Religion
 2041-1863=O # Bulletin for the Study of Religion
 2041-1871=O # Bulletin for the Study of Religion
 0963-7494=O # Religion, State and Society

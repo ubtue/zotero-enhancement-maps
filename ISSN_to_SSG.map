@@ -190,11 +190,11 @@ Byzantion=0; 1  # Byzantion
 1888-346X=0  # Bandue: revista de la Sociedad Española de Ciencias de las Religiones
 2035-6455=0  # Historia Religionum
 1743-2200=0  # Material Religion=The Journal of Objects, Art and Belief 
-2049-7555, 2049-7563=0 , # Journal for the Cognitive Science of Religion
-2049-7555=0 , # Journal for the Cognitive Science of Religion
-2049-7563=0 , # Journal for the Cognitive Science of Religion
+2049-7555, 2049-7563=0 # Journal for the Cognitive Science of Religion
+2049-7555=0 # Journal for the Cognitive Science of Religion
+2049-7563=0 # Journal for the Cognitive Science of Religion
 21568022=0  # Mormon studies Review
-2041-1863, 2041-1871 :0  # Bulletin for the Study of Religion
+2041-1863, 2041-1871=0  # Bulletin for the Study of Religion
 2041-1863=0  # Bulletin for the Study of Religion
 2041-1871=0  # Bulletin for the Study of Religion
 0963-7494=0  # Religion, State and Society
