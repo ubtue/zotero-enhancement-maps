@@ -307,5 +307,8 @@ ARC=0; 1  # ARC
 2090-7753=FID-KRIM-DE-21 # Journal of Criminology
 2090-777X=FID-KRIM-DE-21 # Journal of Criminology
 2199-465X=FID-KRIM-DE-21 # Journal of Developmental and Life-Course Criminology
-2199-465X=FID-KRIM-DE-21 # Journal of Developmental and Life-Course Criminology
+1573-3750, 1572-8315=FID-KRIM-DE-21 # Journal of Experimental Criminology
+1572-8315=FID-KRIM-DE-21 # Journal of Experimental Criminology
+1573-3750=FID-KRIM-DE-21 # Journal of Experimental Criminology
+1573-3750, 1572-8315=FID-KRIM-DE-21 # Journal of Experimental Criminology
 
