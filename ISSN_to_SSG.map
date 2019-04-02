@@ -340,4 +340,7 @@ Religions=0 #  Religions
 0897-4454=FID-KRIM-DE-21 # Women & Criminal Justice
 1541-2040=FID-KRIM-DE-21 # Youth Violence and Juvenile Justice
 2375-3234=1 # Church, Communication and Culture
+1092-6690, 1541-8480=0 # Nova religio
+1541-8480=0 # Nova religio
+1092-6690=0 # Nova religio
 
