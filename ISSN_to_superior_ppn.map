@@ -102,8 +102,9 @@
 0588-3237=166757802 # Colloquium
 0003-2980=640379796 # AndrewsUniversitySeminarystudies
 0118-8534=357865871 # Asianjournalofpentecostalstudies
-1477-8351=362782326 # Aramaicstudies
-1745-5227=362782326 # Aramaicstudies
+1477-8351=367392372 # Aramaic studies
+1745-5227=367392372 # Aramaic studies
+1745-5227, 1477-8351=367392372 # Aramaic studies
 1462-3153=270936769 # JournalfortheAramaicbible
 0229-2807=229243975 # ARC
 0094-5323=598788719 # Augustinianstudies
