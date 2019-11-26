@@ -197,8 +197,9 @@
 1872-0226=O # ContemporaryIslam
 1871-7691=O # PentecoStudies
 18717691=O # PentecoStudies
-1871-2428=A # Churchhistoryandreligiousculture
-1871-241X=A # Churchhistoryandreligiousculture
+1871-2428=O # Churchhistoryandreligiousculture
+1871-241X=O # Churchhistoryandreligiousculture
+1871-2428, 1871-241X=O # Churchhistoryandreligiousculture
 1869-3296=O # JournalofancientJudaism
 1869-3261=O # Diaconia
 1868-8020=O # EarlyChristianity
