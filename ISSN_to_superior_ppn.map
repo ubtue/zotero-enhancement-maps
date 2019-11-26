@@ -37,8 +37,9 @@
 00222097=341338915 # The journal of Jewish studies
 0022-2097=341338915 # The journal of Jewish studies
 0018-2613=129292699 # HistorischeZeitschrift
-1871-241X=517813327 # Churchhistoryandreligiousculture
-1871-2428=517813327 # Churchhistoryandreligiousculture
+1871-241X=521455545 # Churchhistoryandreligiousculture
+1871-2428=521455545 # Churchhistoryandreligiousculture
+1871-2428, 1871-241X=521455545 # Churchhistoryandreligiousculture
 0946-3518=182190773 # PraktischeTheologie
 0938-5320=182190773 # PraktischeTheologie
 2198-0462=182190773 # PraktischeTheologie
