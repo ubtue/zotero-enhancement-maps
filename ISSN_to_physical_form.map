@@ -304,7 +304,9 @@
 1572-8609=O # TheJournalofEthics
 1572-8447=O # Ethicaltheoryandmoralpractice
 1572-8366=A # Agricultureandhumanvalues!!eppn
-1572-543X=A # Exchange!!eppn
+1572-543X=O # Exchange
+1572-543X, 0166-2740=O # Exchange
+0166-2740=O # Exchange
 1570-0739=A # ZeitschriftfürReligions-undGeistesgeschichte
 1570-0720=A # VigiliaeChristianae!!eppn
 1570-0682=A # Method&theoryinthestudyofreligion
