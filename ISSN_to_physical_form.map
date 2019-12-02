@@ -315,7 +315,6 @@
 1570-0631=O # JournalforthestudyofJudaism
 1570-0631, 0047-2212=O # JournalforthestudyofJudaism
 0047-2212=O # JournalforthestudyofJudaism
-1568-5365=A # NovumTestamentum!!eppn
 1568-5330=A # VetusTestamentum!!eppn
 1568-5292=A # Religionandthearts
 1568-5276=O # NumenEISSN
@@ -757,7 +756,9 @@
 0049-2353=A # Stromata
 0048-7988=O # Revued'Histoiredel'EglisedeFrance
 0048-721X=O # Religion
-0048-1009=A # NovumTestamentum
+0048-1009=O # Novum Testamentum
+1568-5365=O # Novum Testamentum
+0048-1009, 1568-5365=O # Novum Testamentum
 0047-8105=O # Moreana
 0047-2867=A # !015194620!JournalofTheologyforSouthernAfrica
 0045-0308=A # Australianbiblicalreview
