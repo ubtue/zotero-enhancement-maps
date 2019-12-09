@@ -874,7 +874,7 @@
 0022-4480,1477-8556=O # JournalofSemiticStudies
 0022-4235=A # Thejournalofreligiousthought!!pppn
 0022-4235=A # Thejournalofreligiousthought!!eppn
-0022-4200=A # JournalofreligioninAfrica
+0022-4200=O # JournalofreligioninAfrica
 0022-4197=O # JournalofReligionandHealth
 0022-4197,1573-6571=O # JournalofReligionandHealth
 0022-4189=O # JournalofReligion
@@ -1115,3 +1115,5 @@
 2211-7954=O # Journal of Muslims in Europe
 2211-792X=O # Journal of Muslims in Europe
 2211-7954, 2211-792X=O # Journal of Muslims in Europe
+1570-0666, 0022-4200=O # JournalofreligioninAfrica
+1570-0666=O # JournalofreligioninAfrica
