@@ -309,7 +309,7 @@
 0166-2740=O # Exchange
 1570-0739=A # ZeitschriftfürReligions-undGeistesgeschichte
 1570-0720=A # VigiliaeChristianae!!eppn
-1570-0682=A # Method&theoryinthestudyofreligion
+1570-0682=O # Method&theoryinthestudyofreligion
 1570-0674=O # Medievalencounters
 1570-0666=A # JournalofreligioninAfrica
 1570-0631=O # JournalforthestudyofJudaism
@@ -535,7 +535,8 @@
 0946-3518=A # PraktischeTheologie
 0944-5706=O # JewishStudiesQuarterly
 0943-7592=A # JournalfortheHistoryofModernTheologyüberDegruyter=4213Hauptsacht.bis14.2007=ZeitschriftfürneuereTheologiegeschichte;@Grotz=als„…$h1-2“(stattmitQuerstrich=„…$h1/2“)
-0943-3058=A # Method&theoryinthestudyofreligion
+0943-3058=O # Method&theoryinthestudyofreligion
+0943-3058, 1570-0682=O # Method&theoryinthestudyofreligion
 0938-5320=A # PraktischeTheologie
 0935-7335=A # EthikinderMedizin
 0932-9951=O # KirchlicheZeitgeschichteInternationaleZeitschriftfürTheologieundGeschichtswissenschaft
