@@ -89,8 +89,9 @@
 1568-5292=220974209 # Religionandthearts
 0008-4298=617810826 # Studiesinreligion=Sciencesreligieuses
 2042-0587=617810826 # Studiesinreligion=Sciencesreligieuses
-1380-7854=187627231 # Medievalencounters
-1570-0674=187627231 # Medievalencounters
+1380-7854=341909823 # Medievalencounters
+1570-0674=341909823 # Medievalencounters
+1570-0674, 1380-7854=341909823 # Medievalencounters
 0319-485X=506715639 # Religiousstudiesreview
 1748-0922=506715639 # Religiousstudiesreview
 1030-570X=618793011 # Pacifica
