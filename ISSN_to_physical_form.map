@@ -310,7 +310,7 @@
 1570-0739=A # ZeitschriftfürReligions-undGeistesgeschichte
 1570-0720=A # VigiliaeChristianae!!eppn
 1570-0682=A # Method&theoryinthestudyofreligion
-1570-0674=A # Medievalencounters
+1570-0674=O # Medievalencounters
 1570-0666=A # JournalofreligioninAfrica
 1570-0631=O # JournalforthestudyofJudaism
 1570-0631, 0047-2212=O # JournalforthestudyofJudaism
@@ -415,7 +415,7 @@
 1386-2820=O # Ethicaltheoryandmoralpractice
 1386-2820=A # Ethicaltheoryandmoralpractice!!pppn
 1386-2820,1572-8447=O # Ethicaltheoryandmoralpractice
-1380-7854=A # Medievalencounters
+1380-7854=O # Medievalencounters
 1380-3603=O # Christianbioethics
 1380-3603=O # Christianbioethics
 1380-3603,1744-4195=O # Christianbioethics
@@ -1126,3 +1126,4 @@
 2210-5948, 2210-5956=O # Journal of Sufi Studies
 2210-5948=O # Journal of Sufi Studies
 2210-5956=O # Journal of Sufi Studies
+1570-0674, 1380-7854=O # Medievalencounters
