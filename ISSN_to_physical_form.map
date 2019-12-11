@@ -316,7 +316,7 @@
 1570-0631, 0047-2212=O # JournalforthestudyofJudaism
 0047-2212=O # JournalforthestudyofJudaism
 1568-5330=A # VetusTestamentum!!eppn
-1568-5292=A # Religionandthearts
+1568-5292=O # Religionandthearts
 1568-5276=O # NumenEISSN
 0029-5973=O # NumenEISSN
 1568-5179=O # DeadSeadiscoveries!!eppn
@@ -478,7 +478,8 @@
 1086-3249=A # KennedyInstituteofEthicsjournal
 1086-3222=O # Journalofthehistoryofideas
 1086-3184=O # JournalofearlyChristianstudies
-1079-9265=A # Religionandthearts
+1079-9265=O # Religionandthearts
+1079-9265, 1568-5292=O # Religionandthearts
 1075-7201=A # Contagion
 1071-8257=A # Josephinumjournaloftheology
 1069-4404=O # Sociologyofreligion
