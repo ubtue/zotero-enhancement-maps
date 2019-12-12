@@ -307,7 +307,7 @@
 1572-543X=O # Exchange
 1572-543X, 0166-2740=O # Exchange
 0166-2740=O # Exchange
-1570-0739=A # ZeitschriftfürReligions-undGeistesgeschichte
+1570-0739=O # ZeitschriftfürReligions-undGeistesgeschichte
 1570-0720=A # VigiliaeChristianae!!eppn
 1570-0682=O # Method&theoryinthestudyofreligion
 1570-0674=O # Medievalencounters
@@ -766,7 +766,8 @@
 0045-0308=A # Australianbiblicalreview
 00450308=A # Australianbiblicalreview
 0044-3549=O # ZeitschriftfürTheologieundKirche
-0044-3441=A # ZeitschriftfürReligions-undGeistesgeschichte
+0044-3441=O # ZeitschriftfürReligions-undGeistesgeschichte
+0044-3441, 1570-0739=O # ZeitschriftfürReligions-undGeistesgeschichte
 0044-3123=O # ZeitschriftfürMissionswissenschaftundReligionswissenschaft
 0044-3123=A # ZeitschriftfürMissionswissenschaftundReligionswissenschaft
 0044-2690=A # ZeitschriftfuerEvangelischesKirchenrecht
