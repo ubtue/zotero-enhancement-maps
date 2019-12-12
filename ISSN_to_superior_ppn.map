@@ -128,7 +128,7 @@
 0092-6558=166757144 # JournaloftheInterdenominationalTheologicalCenter
 1934-9637=560849354 # Journalofspiritualityinmentalhealth
 1934-9645=560849354 # Journalofspiritualityinmentalhealth
-1570-0739=129457981 # ZeitschriftfürReligions-undGeistesgeschichte
+1570-0739=353257818 # ZeitschriftfürReligions-undGeistesgeschichte
 0275-5270=363737197 # WordandWorld
 0034-3072=813203554 # Reformedtheologicalreview
 0025-9373=129883786 # TheMennonitequarterlyreview
@@ -276,7 +276,8 @@
 0082-7118=166758612 # TyndaleBulletin
 2326-6236=543191230 # Thejurist=studiesinchurchlawandministry
 2363-6696=802539181 # EntangledReligions
-0044-3441=802539181 # ZeitschriftfürReligions-undGeistesgeschichte
+0044-3441=353257818 # ZeitschriftfürReligions-undGeistesgeschichte
+0044-3441, 1570-0739=353257818 # ZeitschriftfürReligions-undGeistesgeschichte
 1862-5886=514530790 # ZeitschriftfürjungeReligionswissenschaft
 1612-2941=241456487 # MarburgJournalofReligion
 0017-2251=630363145 # Christianscholar’sreview
