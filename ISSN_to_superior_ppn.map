@@ -133,8 +133,9 @@
 0034-3072=813203554 # Reformedtheologicalreview
 0025-9373=129883786 # TheMennonitequarterlyreview
 00259373=129883786 # TheMennonitequarterlyreview
-1023-0807=182454592 # Religionandtheology
-1574-3012=182454592 # Religionandtheology
+1023-0807=341897981 # Religionandtheology
+1574-3012=341897981 # Religionandtheology
+1574-3012, 1023-0807=341897981 # Religionandtheology
 0036-3227=89889798X # St.Vladimir'stheologicalquarterly
 0092-4245=166755478 # Wesleyantheologicaljournal
 0006-2014=12946371X # BiblischeZeitschrift
