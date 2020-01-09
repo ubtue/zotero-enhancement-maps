@@ -3136,6 +3136,7 @@
 1866-069X=FG_0 # (3431 | IxTheo) Medaon: Magazin für Jüdisches Leben in Forschung und Bildung
 1469-9540=FG_0 # (3432 | IxTheo) Journal of intercultural studies : an internat. journal
 0725-6868=FG_0 # (3432 | IxTheo) Journal of intercultural studies : an internat. journal
+2027-7695=FG_1 # (3439 | IxTheo) Studium Theologicum Xaverianum
 0192-3234=FG_2,1 # (1 | KrimDok) Crime and justice : a review of research
 2153-0416=FG_2,1 # (1 | KrimDok) Crime and justice : a review of research
 0174-5018=FG_2,1 # (7 | KrimDok) Jahresbericht ... über die Rauschgiftkriminalität in Baden-Württemberg
@@ -3222,8 +3223,8 @@
 2193-9713=FG_2,1 # (118 | KrimDok) Diskurs Kindheits- und Jugendforschung
 0935-218X=FG_2,1 # (120 | KrimDok) Informationsdienst soziale Indikatoren : ISI , Sozialberichterstattung, gesellschaftliche Trends, aktuelle Informationen , eine GESIS-Publikation
 2199-9082=FG_2,1 # (120 | KrimDok) Informationsdienst soziale Indikatoren : ISI , Sozialberichterstattung, gesellschaftliche Trends, aktuelle Informationen , eine GESIS-Publikation
-1862-2593=FG_2,1 # (122 | KrimDok) Berliner Journal für Soziologie
 0863-1808=FG_2,1 # (122 | KrimDok) Berliner Journal für Soziologie
+1862-2593=FG_2,1 # (122 | KrimDok) Berliner Journal für Soziologie
 0939-608X=FG_2,1 # (123 | KrimDok) Soziale Probleme : Zeitschrift für soziale Probleme und soziale Kontrolle
 2364-3951=FG_2,1 # (123 | KrimDok) Soziale Probleme : Zeitschrift für soziale Probleme und soziale Kontrolle
 0932-5409=FG_2,1 # (125 | KrimDok) Bürgerrechte & Polizei : CILIP , Cilip Informationsdienst
@@ -3235,10 +3236,10 @@
 1364-6540=FG_2,1 # (131 | KrimDok) Research findings / Home Office Research and Statistics Directorate
 1364-6540=FG_2,1 # (132 | KrimDok) Research findings / Home Office Research, Development and Statistics Directorate
 1236-2522=FG_2,1 # (133 | KrimDok) HEUNI newsletter / European Institute for Crime Prevention and Control, affiliated with the United Nations
-0928-1371=FG_2,1 # (134 | KrimDok) European journal on criminal policy and research
 1572-9869=FG_2,1 # (134 | KrimDok) European journal on criminal policy and research
-0928-9569=FG_2,1 # (135 | KrimDok) European journal of crime, criminal law and criminal justice
+0928-1371=FG_2,1 # (134 | KrimDok) European journal on criminal policy and research
 1571-8174=FG_2,1 # (135 | KrimDok) European journal of crime, criminal law and criminal justice
+0928-9569=FG_2,1 # (135 | KrimDok) European journal of crime, criminal law and criminal justice
 0340-1804=FG_2,1 # (136 | KrimDok) Zeitschrift für Soziologie
 2366-0325=FG_2,1 # (136 | KrimDok) Zeitschrift für Soziologie
 0011-1287=FG_2,1 # (137 | KrimDok) Crime & delinquency
@@ -3291,11 +3292,11 @@
 2312-1920=FG_2,1 # (182 | KrimDok) Journal für Strafrecht : JSt , Zeitschrift für Kriminalrecht, Polizeirecht und soziale Arbeit
 1729-8164=FG_2,1 # (183 | KrimDok) Criminology in Europe : newsletter of the European Society of Criminology
 1612-4278=FG_2,1 # (184 | KrimDok) Statistisches Monatsheft Baden-Württemberg
-1741-2609=FG_2,1 # (185 | KrimDok) European journal of criminology : the journal of the European Society of Criminology
 1477-3708=FG_2,1 # (185 | KrimDok) European journal of criminology : the journal of the European Society of Criminology
+1741-2609=FG_2,1 # (185 | KrimDok) European journal of criminology : the journal of the European Society of Criminology
 1742-4003=FG_2,1 # (186 | KrimDok) Criminology in Cambridge : newsletter of the Institute of Criminology
-1862-7072=FG_2,1 # (187 | KrimDok) Forensische Psychiatrie, Psychologie, Kriminologie
 1862-7080=FG_2,1 # (187 | KrimDok) Forensische Psychiatrie, Psychologie, Kriminologie
+1862-7072=FG_2,1 # (187 | KrimDok) Forensische Psychiatrie, Psychologie, Kriminologie
 1436-9850=FG_2,1 # (188 | KrimDok) Kindesmisshandlung und -vernachlässigung : interdisziplinäre Fachzeitschrift für Prävention und Intervention
 2196-8004=FG_2,1 # (188 | KrimDok) Kindesmisshandlung und -vernachlässigung : interdisziplinäre Fachzeitschrift für Prävention und Intervention
 1051-1253=FG_2,1 # (189 | KrimDok) Journal of criminal justice education
@@ -3319,8 +3320,8 @@
 0045-902X=FG_2,1 # (204 | KrimDok) International bibliography on crime and delinquency
 0035-1733=FG_2,1 # (205 | KrimDok) RSC : revue de science criminelle et de droit pénal comparé
 0026-9301=FG_2,1 # (206 | KrimDok) Monatsschrift für Kriminalbiologie und Strafrechtsreform : Organ d. Kriminalbiologischen Gesellschaft
-2366-1968=FG_2,1 # (208 | KrimDok) Monatsschrift für Kriminologie und Strafrechtsreform
 0026-9301=FG_2,1 # (208 | KrimDok) Monatsschrift für Kriminologie und Strafrechtsreform
+2366-1968=FG_2,1 # (208 | KrimDok) Monatsschrift für Kriminologie und Strafrechtsreform
 0035-3329=FG_2,1 # (209 | KrimDok) Revue internationale de criminologie et de police technique et scientifique : organe officiel de l_Association Internationale des Criminologues de Langue Française (AICLF)
 0341-1966=FG_2,1 # (210 | KrimDok) Kriminologisches Journal
 0007-0955=FG_2,1 # (211 | KrimDok) British journal of criminology : an international review of crime and society
@@ -3332,8 +3333,8 @@
 1660-2501=FG_2,1 # (217 | KrimDok) Schweizerische Zeitschrift für Kriminologie _ = Revue suisse de criminologie : RSC = Rivista svizzera di criminologia (_ auch: Swiss journal of criminology)
 0255-3678=FG_2,1 # (218 | KrimDok) Kriminalsoziologische Bibliografie
 0724-844X=FG_2,1 # (219 | KrimDok) Forensia : interdisziplinäre Zeitschr. für Recht, Neurologie, Psychiatrie u. Psychologie
-0011-1384=FG_2,1 # (220 | KrimDok) Criminology : an interdisciplinary journal , the official publ. of the American Society of Criminology
 1745-9125=FG_2,1 # (220 | KrimDok) Criminology : an interdisciplinary journal , the official publ. of the American Society of Criminology
+0011-1384=FG_2,1 # (220 | KrimDok) Criminology : an interdisciplinary journal , the official publ. of the American Society of Criminology
 0361-5170=FG_2,1 # (221 | KrimDok) Victimology : an international journal
 0146-9177=FG_2,1 # (222 | KrimDok) Criminal justice abstracts
 0023-4699=FG_2,1 # (224 | KrimDok) Kriminalistik : unabhängige Zeitschrift für die kriminalistische Wissenschaft und Praxis
@@ -3388,8 +3389,8 @@
 2512-0980=FG_2,1 # (289 | KrimDok) Kölner Zeitschrift für Soziologie und Sozialpsychologie. - Sonderhefte
 0543-2936=FG_2,1 # (291 | KrimDok) Medical tribune. - Von Ärzten für Ärzte
 1067-7453=FG_2,1 # (295 | KrimDok) National Institute of Justice journal
-1461-7439=FG_2,1 # (343 | KrimDok) Theoretical criminology : an international journal
 1362-4806=FG_2,1 # (343 | KrimDok) Theoretical criminology : an international journal
+1461-7439=FG_2,1 # (343 | KrimDok) Theoretical criminology : an international journal
 0352-0226=FG_2,1 # (366 | KrimDok) [Rezultati raziskovanj / 13] Rezultati raziskovanj / Statistični Urad Republike Slovenije
 1661-2612=FG_2,1 # (381 | KrimDok) _Prison-Info : das Magazin zum Straf- und Massnahmenvollzug
 1012-8093=FG_2,1 # (382 | KrimDok) Acta criminologica : Southern African journal of criminology = Suider-Afrikaanse tydskrif vir kriminologie
@@ -3400,8 +3401,8 @@
 0171-7227=FG_2,1 # (390 | KrimDok) Anwaltsblatt
 0003-9225=FG_2,1 # (391 | KrimDok) Archiv für Kriminologie unter besonderer Berücksichtigung der gerichtlichen Physik, Chemie und Medizin
 0340-3564=FG_2,1 # (392 | KrimDok) Archiv für Wissenschaft und Praxis der sozialen Arbeit
-1871-0131=FG_2,1 # (397 | KrimDok) Asian journal of criminology : an interdisciplinary journal on crime, law and deviance in Asia
 1871-014X=FG_2,1 # (397 | KrimDok) Asian journal of criminology : an interdisciplinary journal on crime, law and deviance in Asia
+1871-0131=FG_2,1 # (397 | KrimDok) Asian journal of criminology : an interdisciplinary journal on crime, law and deviance in Asia
 0004-8658=FG_2,1 # (398 | KrimDok) Australian and New Zealand journal of criminology
 1837-9273=FG_2,1 # (398 | KrimDok) Australian and New Zealand journal of criminology
 1894-4183=FG_2,1 # (401 | KrimDok) Bergen journal of criminal law & criminal justice
@@ -3419,11 +3420,11 @@
 1552-3594=FG_2,1 # (435 | KrimDok) Criminal justice and behavior : official publication of the American Association of Correctional Psychology
 0887-4034=FG_2,1 # (436 | KrimDok) Criminal justice policy review
 1552-3586=FG_2,1 # (436 | KrimDok) Criminal justice policy review
-1478-601X=FG_2,1 # (437 | KrimDok) Criminal justice studies : a critical journal of crime, law and society
 1478-6028=FG_2,1 # (437 | KrimDok) Criminal justice studies : a critical journal of crime, law and society
+1478-601X=FG_2,1 # (437 | KrimDok) Criminal justice studies : a critical journal of crime, law and society
+1466-8025=FG_2,1 # (442 | KrimDok) Criminology & criminal justice : the international journal of policy and practice
 1748-8958=FG_2,1 # (442 | KrimDok) Criminology & criminal justice : the international journal of policy and practice
 1748-8966=FG_2,1 # (442 | KrimDok) Criminology & criminal justice : the international journal of policy and practice
-1466-8025=FG_2,1 # (442 | KrimDok) Criminology & criminal justice : the international journal of policy and practice
 2332-886X=FG_2,1 # (443 | KrimDok) Criminology, Criminal Justice, Law & Society
 0121-0483=FG_2,1 # (449 | KrimDok) Derecho penal y criminología : revista del Instituto de Ciencias Penales y Criminológicas de la Universidad Externado de Colombia
 2346-2108=FG_2,1 # (449 | KrimDok) Derecho penal y criminología : revista del Instituto de Ciencias Penales y Criminológicas de la Universidad Externado de Colombia
@@ -3435,8 +3436,8 @@
 0014-9128=FG_2,1 # (468 | KrimDok) Federal probation: a journal of correctional philosophy and practice
 0017-1956=FG_2,1 # (479 | KrimDok) Goltdammer_s Archiv für Strafrecht
 2194-7899=FG_2,1 # (481 | KrimDok) Health & Justice
-1556-3855=FG_2,1 # (492 | KrimDok) International criminal justice review
 1057-5677=FG_2,1 # (492 | KrimDok) International criminal justice review
+1556-3855=FG_2,1 # (492 | KrimDok) International criminal justice review
 0192-4036=FG_2,1 # (493 | KrimDok) International journal of comparative and applied criminal justice
 2157-6475=FG_2,1 # (493 | KrimDok) International journal of comparative and applied criminal justice
 1864-1385=FG_2,1 # (494 | KrimDok) International journal of conflict and violence
@@ -3458,13 +3459,13 @@
 2090-777X=FG_2,1 # (510 | KrimDok) Journal of Criminology
 2199-4641=FG_2,1 # (511 | KrimDok) Journal of developmental and life-course criminology
 2199-465X=FG_2,1 # (511 | KrimDok) Journal of developmental and life-course criminology
-1572-8315=FG_2,1 # (515 | KrimDok) Journal of experimental criminology
 1573-3750=FG_2,1 # (515 | KrimDok) Journal of experimental criminology
+1572-8315=FG_2,1 # (515 | KrimDok) Journal of experimental criminology
 0022-6882=FG_2,1 # (532 | KrimDok) Juristenzeitung
 1868-7067=FG_2,1 # (532 | KrimDok) Juristenzeitung
 0022-6904=FG_2,1 # (533 | KrimDok) Juristische Arbeitsblätter : Zeitschrift für Studenten und Referendare
-1612-7021=FG_2,1 # (534 | KrimDok) Juristische Ausbildung
 0170-1452=FG_2,1 # (534 | KrimDok) Juristische Ausbildung
+1612-7021=FG_2,1 # (534 | KrimDok) Juristische Ausbildung
 0022-6920=FG_2,1 # (535 | KrimDok) Juristische Rundschau
 1612-7064=FG_2,1 # (535 | KrimDok) Juristische Rundschau
 0022-6939=FG_2,1 # (536 | KrimDok) Juristische Schulung : Zeitschrift für Studium und Referendariat
@@ -3473,8 +3474,8 @@
 0023-4834=FG_2,1 # (545 | KrimDok) Kritische Justiz : Vierteljahresschrift für Recht und Politik
 0179-2830=FG_2,1 # (546 | KrimDok) Kritische Vierteljahresschrift für Gesetzgebung und Rechtswissenschaft = Critical quarterly for legislation and law = Revue critique trimestrielle de jurisprudence et de législation
 2364-6071=FG_2,1 # (546 | KrimDok) Kritische Vierteljahresschrift für Gesetzgebung und Rechtswissenschaft = Critical quarterly for legislation and law = Revue critique trimestrielle de jurisprudence et de législation
-1355-3259=FG_2,1 # (551 | KrimDok) Legal and criminological psychology
 2044-8333=FG_2,1 # (551 | KrimDok) Legal and criminological psychology
+1355-3259=FG_2,1 # (551 | KrimDok) Legal and criminological psychology
 0170-1754=FG_2,1 # (552 | KrimDok) Media-Perspektiven
 0340-1812=FG_2,1 # (554 | KrimDok) Monatsschrift für deutsches Recht : Zeitschrift für Zivil- und Zivilverfahrensrecht
 2194-4202=FG_2,1 # (554 | KrimDok) Monatsschrift für deutsches Recht : Zeitschrift für Zivil- und Zivilverfahrensrecht
@@ -3487,8 +3488,8 @@
 2196-8225=FG_2,1 # (573 | KrimDok) Praxis der Kinderpsychologie und Kinderpsychiatrie : Ergebnisse aus Psychotherapie, Beratung und Psychiatrie
 0032-8855=FG_2,1 # (574 | KrimDok) Prison journal : an international forum on incarceration and alternative sanctions ; official publication of the Pennsylvania Prison Society
 1552-7522=FG_2,1 # (574 | KrimDok) Prison journal : an international forum on incarceration and alternative sanctions ; official publication of the Pennsylvania Prison Society
-1741-3079=FG_2,1 # (576 | KrimDok) Probation journal : the journal of community and criminal justice
 0264-5505=FG_2,1 # (576 | KrimDok) Probation journal : the journal of community and criminal justice
+1741-3079=FG_2,1 # (576 | KrimDok) Probation journal : the journal of community and criminal justice
 0033-3042=FG_2,1 # (579 | KrimDok) Psychologische Rundschau
 2190-6238=FG_2,1 # (579 | KrimDok) Psychologische Rundschau
 1068-316X=FG_2,1 # (581 | KrimDok) Psychology, crime & law
@@ -3514,8 +3515,8 @@
 0507-4150=FG_2,1 # (632 | KrimDok) Vorgänge : Zeitschrift für Bürgerrechte und Gesellschaftspolitik
 0043-6143=FG_2,1 # (634 | KrimDok) Wirtschaft und Statistik: WISTA
 1619-2907=FG_2,1 # (634 | KrimDok) Wirtschaft und Statistik: WISTA
-1541-0323=FG_2,1 # (635 | KrimDok) Women & criminal justice
 0897-4454=FG_2,1 # (635 | KrimDok) Women & criminal justice
+1541-0323=FG_2,1 # (635 | KrimDok) Women & criminal justice
 1541-2040=FG_2,1 # (636 | KrimDok) Youth violence and juvenile justice : an interdisciplinary journal
 1556-9330=FG_2,1 # (636 | KrimDok) Youth violence and juvenile justice : an interdisciplinary journal
 1422-4917=FG_2,1 # (637 | KrimDok) Zeitschrift für Kinder- und Jugendpsychiatrie und Psychotherapie
