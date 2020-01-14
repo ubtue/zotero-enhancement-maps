@@ -2257,8 +2257,8 @@
 0038-7134=FG_1 # (2191 | IxTheo) Speculum: A Journal of Medieval Studies.
 2311-3448=FG_1 # (2192 | IxTheo) State, Religion and Church.
 1171-7920=FG_1 # (2193 | IxTheo) Stimulus: The New Zealand Journal of Christian Thought and Practice.
-0215-0492=FG_0 # (2195 | IxTheo) Studia Islamika
 2355-6145=FG_0 # (2195 | IxTheo) Studia Islamika
+0215-0492=FG_0 # (2195 | IxTheo) Studia Islamika
 0137-2432=FG_0 # (2196 | IxTheo) Studia Religiologica : Zeszyty Naukowe Uniwersytetu Jagiellońskiego
 2084-4077=FG_0 # (2196 | IxTheo) Studia Religiologica : Zeszyty Naukowe Uniwersytetu Jagiellońskiego
 2168-3166=FG_1 # (2197 | IxTheo) Studies in the Bible and Antiquity.
@@ -2274,12 +2274,12 @@
 0827-3200=FG_1 # (2217 | IxTheo) Touchstone: Heritage and Theology in a New Age.
 0855-1979=FG_1 # (2218 | IxTheo) Trinity Journal of Church and Theology.
 1492-7799=FG_1 # (2221 | IxTheo) Vision (Winnipeg, Man.): a Journal for Church and Theology.
-0042-7543=FG_1 # (2222 | IxTheo) Vivarium : a journal for medieval and early-modern philosophy and intellectual life
 1568-5349=FG_1 # (2222 | IxTheo) Vivarium : a journal for medieval and early-modern philosophy and intellectual life
-0043-2539=FG_0 # (2223 | IxTheo) Die Welt des Islams : international journal for the study of modern Islam
+0042-7543=FG_1 # (2222 | IxTheo) Vivarium : a journal for medieval and early-modern philosophy and intellectual life
 1570-0607=FG_0 # (2223 | IxTheo) Die Welt des Islams : international journal for the study of modern Islam
-2291-1723=FG_1 # (2224 | IxTheo) Wesley and Methodist studies : WMS
+0043-2539=FG_0 # (2223 | IxTheo) Die Welt des Islams : international journal for the study of modern Islam
 2291-1731=FG_1 # (2224 | IxTheo) Wesley and Methodist studies : WMS
+2291-1723=FG_1 # (2224 | IxTheo) Wesley and Methodist studies : WMS
 2213-0241=FG_1 # (2226 | IxTheo) Zeitschrift für Dialektische Theologie; Supplement Series.
 0044-2526=FG_1 # (2227 | IxTheo) Zeitschrift für die alttestamentliche Wissenschaft. Beihefte
 0934-2575=FG_1 # (2227 | IxTheo) Zeitschrift für die alttestamentliche Wissenschaft. Beihefte
@@ -2330,8 +2330,8 @@
 0740-0659=FG_1 # (2416 | IxTheo) Faith and Mission
 0016-3120=FG_1 # (2418 | IxTheo) Furrow : a journal for the contemporary church
 0270-9287=FG_1 # (2419 | IxTheo) Quarterly Review (Nashville)
-1871-031X=FG_0 # (2423 | IxTheo) Religion & Human Rights
 1871-0328=FG_0 # (2423 | IxTheo) Religion & Human Rights
+1871-031X=FG_0 # (2423 | IxTheo) Religion & Human Rights
 0170-5148=FG_1 # (2433 | IxTheo) Christ in der Gegenwart
 0001-5210=FG_1 # (2440 | IxTheo) Acta archaeologica Academiae Scientiarum Hungaricae
 0173-4636=FG_1 # (2451 | IxTheo) Kirche im ländlichen Raum : ökumenisches Fragen und Handeln
@@ -2385,8 +2385,8 @@
 1865-9438=FG_0/1 # (2511 | IxTheo) Aschkenas : Zeitschrift für Geschichte und Kultur der Juden
 0955-2367=FG_0 # (2512 | IxTheo) Asian philosophy : an international journal of the philosophical traditions of the East
 1469-2961=FG_0 # (2512 | IxTheo) Asian philosophy : an international journal of the philosophical traditions of the East
-1031-2943=FG_0 # (2513 | IxTheo) Australian religion studies review
 1744-9014=FG_0 # (2513 | IxTheo) Australian religion studies review
+1031-2943=FG_0 # (2513 | IxTheo) Australian religion studies review
 1866-0851=FG_1 # (2514 | IxTheo) Eulenfisch : Limburger Magazin für Religion und Bildung
 1872-471X=FG_0 # (2515 | IxTheo) European journal of jewish studies
 1025-9996=FG_0 # (2515 | IxTheo) European journal of jewish studies
@@ -2500,12 +2500,12 @@
 0017-1123=FG_0 # (2644 | IxTheo) Glaube und Tat : deutsch-unitarische Blätter ; Monatsschrift für Religion und Kultur
 0344-1059=FG_0 # (2645 | IxTheo) Der Humanist
 0721-1988=FG_0 # (2646 | IxTheo) Stimme des Freidenkers
-1473-348X=FG_0 # (2647 | IxTheo) al- Mas¯aq : Islam and medieval Mediterranean
 0950-3110=FG_0 # (2647 | IxTheo) al- Mas¯aq : Islam and medieval Mediterranean
-1744-9634=FG_1 # (2648 | IxTheo) Journal of global ethics
+1473-348X=FG_0 # (2647 | IxTheo) al- Mas¯aq : Islam and medieval Mediterranean
 1744-9626=FG_1 # (2648 | IxTheo) Journal of global ethics
-1539-297X=FG_1 # (2649 | IxTheo) *Ethics : an international journal of social, political, and legal philosophy
+1744-9634=FG_1 # (2648 | IxTheo) Journal of global ethics
 0014-1704=FG_1 # (2649 | IxTheo) *Ethics : an international journal of social, political, and legal philosophy
+1539-297X=FG_1 # (2649 | IxTheo) *Ethics : an international journal of social, political, and legal philosophy
 0963-2719=FG_1 # (2650 | IxTheo) *Environmental values
 1752-7015=FG_1 # (2650 | IxTheo) *Environmental values
 2192-8037=FG_1 # (2652 | IxTheo) Rellis : Zeitschrift für den katholischen Religionsunterricht ; S I/S II
@@ -2517,8 +2517,8 @@
 0073-1587=FG_1 # (2660 | IxTheo) Hegel-Studien
 0002-9602=FG_1 # (2661 | IxTheo) The American journal of sociology : AJS
 1537-5390=FG_1 # (2661 | IxTheo) The American journal of sociology : AJS
-0340-1804=FG_1 # (2662 | IxTheo) Zeitschrift für Soziologie : ZfS
 2366-0325=FG_1 # (2662 | IxTheo) Zeitschrift für Soziologie : ZfS
+0340-1804=FG_1 # (2662 | IxTheo) Zeitschrift für Soziologie : ZfS
 0385-2342=FG_0 # (2663 | IxTheo) Asian folklore studies
 0334-701X=FG_1 # (2664 | IxTheo) Jewish history = Hîstôry¯a yêhûdît
 1572-8579=FG_1 # (2664 | IxTheo) Jewish history = Hîstôry¯a yêhûdît
@@ -2611,8 +2611,8 @@
 2009-7379=FG_0 # (2760 | IxTheo) The international journal of religious tourism and pilgrimage
 2044-0243=FG_0 # (2761 | IxTheo) Journal for the Study of Spirituality
 2044-0251=FG_0 # (2761 | IxTheo) Journal for the Study of Spirituality
-2165-5405=FG_0 # (2762 | IxTheo) Journal of Africana Religions
 2165-5413=FG_0 # (2762 | IxTheo) Journal of Africana Religions
+2165-5405=FG_0 # (2762 | IxTheo) Journal of Africana Religions
 0948-0390=FG_0 # (2763 | IxTheo) Berliner Dialog : Informationen und Standpunkte zur religiösen Begegnung ; Neureligionen, Psycho-Organisationen, Jugendreligionen, Gurubewegungen, Sekten, Kulte, _New Religious Movements_
 1595-3971=FG_0 # (2764 | IxTheo) Journal of religion and culture / Port Harcourt
 1198-6395=FG_0 # (2765 | IxTheo) Journal of Religion and Culture / Montréal
@@ -2634,6 +2634,7 @@
 2394-8396=FG_0 # (2779 | IxTheo) Anthropos India : an international journal of the science of man, society, economy, culture and religion
 1849-675X=FG_0 # (2780 | IxTheo) Journal of Culture and Religion
 2165-9214=FG_0 # (2781 | IxTheo) Journal of religion, media and digital culture
+2588-8099=FG_0 # (2781 | IxTheo) Journal of religion, media and digital culture
 2165-5081=FG_0 # (2782 | IxTheo) Culture and religion review journal
 0022-0221=FG_0 # (2784 | IxTheo) Journal of cross-cultural psychology
 1552-5422=FG_0 # (2784 | IxTheo) Journal of cross-cultural psychology
@@ -2641,8 +2642,8 @@
 2442-9848=FG_0 # (2785 | IxTheo) TARBIYA: Journal of Education in Muslim Society
 0894-2838=FG_1 # (2786 | IxTheo) The journal of communication and religion
 0325-9714=FG_0 # (2787 | IxTheo) Oriente, occidente : revista de investigaciones comparadas
-1521-1037=FG_1 # (2788 | IxTheo) Journal of religion and abuse : advocacy, pastoral care, and prevention
 1523-9179=FG_1 # (2788 | IxTheo) Journal of religion and abuse : advocacy, pastoral care, and prevention
+1521-1037=FG_1 # (2788 | IxTheo) Journal of religion and abuse : advocacy, pastoral care, and prevention
 2232-1314=FG_0 # (2789 | IxTheo) International journal of islamic thought
 2289-6023=FG_0 # (2789 | IxTheo) International journal of islamic thought
 1748-9423=FG_0 # (2790 | IxTheo) Journal of Shi_a Islamic studies
@@ -2667,8 +2668,8 @@
 1429-3803=FG_1 # (2809 | IxTheo) Ius matrimoniale : ze studiów nad ko´scielnym prawem mal·ze´nskim
 0065-0137=FG_1 # (2811 | IxTheo) Zeitschrift des Aachener Geschichtsvereins
 0179-356X=FG_1 # (2813 | IxTheo) Musica sacra : Zeitschrift für katholische Kirchenmusik
-0423-3530=FG_1 # (2814 | IxTheo) Erwachsenenbildung : EB ; Vierteljahresschrift für Theorie und Praxis
 0341-7905=FG_1 # (2814 | IxTheo) Erwachsenenbildung : EB ; Vierteljahresschrift für Theorie und Praxis
+0423-3530=FG_1 # (2814 | IxTheo) Erwachsenenbildung : EB ; Vierteljahresschrift für Theorie und Praxis
 2504-5156=FG_1 # (2815 | IxTheo) Vulgata in Dialogue. A biblical online review
 2352-1147=FG_0 # (2817 | IxTheo) Yearbook of international religious demography
 2574-495X=FG_1 # (2818 | IxTheo) Journal of Orthodox Christian Studies
