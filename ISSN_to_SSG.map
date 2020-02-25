@@ -1351,7 +1351,7 @@
 1521-6292=FG_1 # (1355 | IxTheo) The pneuma review : the journal of ministry resources and theology for pentecostal and chari
 1557-0274=FG_0/1 # (1356 | IxTheo) The review of faith & international affairs
 1931-7743=FG_0/1 # (1356 | IxTheo) The review of faith & international affairs
-0743-5622=FG_1 # (1357 | IxTheo) The review of religions
+0743-5622=FG_0/1 # (1357 | IxTheo) The review of religions
 0361-0160=FG_1 # (1359 | IxTheo) The sixteenth century journal : the journal of early modern studies
 1052-4533=FG_1 # (1360 | IxTheo) The studia Philonica annual : studies in Hellenistic Judaism
 0043-1575=FG_1 # (1361 | IxTheo) The way : a review of Christian spirituality
@@ -1400,7 +1400,7 @@
 1619-9588=FG_0 # (1399 | IxTheo) Jahrbuch für Religionsphilosophie
 1534-8415=FG_0 # (1400 | IxTheo) Journal of media and religion
 1534-8423=FG_0 # (1400 | IxTheo) Journal of media and religion
-1541-163X=FG_1 # (1401 | IxTheo) Coptica : journal of the Saint Mark Foundation ...
+1541-163X=FG_0/1 # (1401 | IxTheo) Coptica : journal of the Saint Mark Foundation ...
 2190-7455=FG_1 # (1402 | IxTheo) International yearbook for Tillich research
 1990-4231=FG_1 # (1402 | IxTheo) International yearbook for Tillich research
 1888-346X=FG_0 # (1403 | IxTheo) Bandue : revista de la Sociedad Española de Ciencias de las Religiones
@@ -1455,7 +1455,7 @@
 0939-9186=FG_0 # (1438 | IxTheo) Mitteilungen für Anthropologie und Religionsgeschichte : MARG
 0362-1596=FG_0 # (1439 | IxTheo) Parabola : tradition, myth, and the search for meaning
 0177-8005=FG_0 # (1440 | IxTheo) Theosophie heute
-0034-3951=FG_1 # (1441 | IxTheo) Religion and society : quarterly bull. of the Christian Institute for the Study of Religion and
+0034-3951=FG_0/1 # (1441 | IxTheo) Religion and society : quarterly bull. of the Christian Institute for the Study of Religion and
 0012-2157=FG_0 # (1442 | IxTheo) Dialogue : a journal of Mormon thought
 0392-7288=FG_0 # (1443 | IxTheo) Islamochristiana
 2167-8472=FG_0 # (1444 | IxTheo) BYU studies quarterly
@@ -1823,8 +1823,8 @@
 1467-8608=FG_1 # (1761 | IxTheo) Business ethics : a European review
 1052-150X=FG_1 # (1762 | IxTheo) Business ethics quarterly : the journal of the Society for Business Ethics
 2153-3326=FG_1 # (1762 | IxTheo) Business ethics quarterly : the journal of the Society for Business Ethics
-0021-6682=FG_1 # (1763 | IxTheo) The Jewish quarterly review
 1553-0604=FG_1 # (1763 | IxTheo) The Jewish quarterly review
+0021-6682=FG_1 # (1763 | IxTheo) The Jewish quarterly review
 0893-4282=FG_1 # (1764 | IxTheo) Journal of agricultural and environmental ethics
 1573-322X=FG_1 # (1764 | IxTheo) Journal of agricultural and environmental ethics
 1187-7863=FG_1 # (1764 | IxTheo) Journal of agricultural and environmental ethics
@@ -2623,8 +2623,8 @@
 0948-0390=FG_0 # (2763 | IxTheo) Berliner Dialog : Informationen und Standpunkte zur religiösen Begegnung ; Neureligionen, Psycho-Organisationen, Jugendreligionen, Gurubewegungen, Sekten, Kulte, _New Religious Movements_
 1595-3971=FG_0 # (2764 | IxTheo) Journal of religion and culture / Port Harcourt
 1198-6395=FG_0 # (2765 | IxTheo) Journal of Religion and Culture / Montréal
-1367-4676=FG_0 # (2766 | IxTheo) Mental health, religion and culture
 1469-9737=FG_0 # (2766 | IxTheo) Mental health, religion and culture
+1367-4676=FG_0 # (2766 | IxTheo) Mental health, religion and culture
 1522-8967=FG_0 # (2767 | IxTheo) Journal of religion, disability and health
 1522-9122=FG_0 # (2767 | IxTheo) Journal of religion, disability and health
 1059-9258=FG_0 # (2768 | IxTheo) Journal of religion in disability and rehabilitation
@@ -2680,8 +2680,8 @@
 0423-3530=FG_1 # (2814 | IxTheo) Erwachsenenbildung : EB ; Vierteljahresschrift für Theorie und Praxis
 2504-5156=FG_1 # (2815 | IxTheo) Vulgata in Dialogue. A biblical online review
 2352-1147=FG_0 # (2817 | IxTheo) Yearbook of international religious demography
-2574-495X=FG_1 # (2818 | IxTheo) Journal of Orthodox Christian Studies
 2574-4968=FG_1 # (2818 | IxTheo) Journal of Orthodox Christian Studies
+2574-495X=FG_1 # (2818 | IxTheo) Journal of Orthodox Christian Studies
 2463-5847=FG_0 # (2820 | IxTheo) Scholiast - Indica et Buddhica
 2196-4793=FG_0 # (2821 | IxTheo) Body Politics : Zeitschrift für Körpergeschichte
 2297-6469=FG_0 # (2822 | IxTheo) Zeitschrift für Religionskunde = Revue de didactique des sciences des religions
@@ -2740,12 +2740,12 @@
 0585-5594=FG_1 # (2878 | IxTheo) Studia theologica Varsaviensia : pólrocznik
 1895-3204=FG_1 # (2879 | IxTheo) Warszawskie studia pastoralne
 0918-516X=FG_1 # (2880 | IxTheo) The Japan Christian review : an annual journal
-0258-9001=FG_1 # (2881 | IxTheo) Journal of contemporary African studies
 1469-9397=FG_1 # (2881 | IxTheo) Journal of contemporary African studies
+0258-9001=FG_1 # (2881 | IxTheo) Journal of contemporary African studies
 0258-3224=FG_0 # (2882 | IxTheo) Religion in Southern Africa
 1898-1127=FG_1 # (2883 | IxTheo) Gdanski rocznik ewangelicki
-2353-7272=FG_1 # (2884 | IxTheo) Roczniki teologiczne = Annales de théologie = Annals of theology
 2543-5973=FG_1 # (2884 | IxTheo) Roczniki teologiczne = Annales de théologie = Annals of theology
+2353-7272=FG_1 # (2884 | IxTheo) Roczniki teologiczne = Annales de théologie = Annals of theology
 2383-8884=FG_1 # (2885 | IxTheo) Asia-Pacific journal of theological studies
 2366-0597=FG_1 # (2886 | IxTheo) Forum Exegese und Hochschuldidaktik: Verstehen von Anfang an
 0932-6502=FG_1 # (2887 | IxTheo) Kirche Kunst
@@ -2760,8 +2760,8 @@
 2593-0486=FG_1 # (2896 | IxTheo) Marriage, families & spirituality : (formerly INTAMS review)
 2528-987X=FG_0 # (2900 | IxTheo) Cumhuriyet ilahiyat dergisi = Cumhuriyet theology journal
 2060-1204=FG_1 # (2901 | IxTheo) Acta missiologiae : journal for reflection on missiological issues and mission practice in Central and Eastern Europe
-2519-5417=FG_1 # (2902 | IxTheo) Orientis Aura : Macau Perspectives in Religious Studies
 2519-5425=FG_1 # (2902 | IxTheo) Orientis Aura : Macau Perspectives in Religious Studies
+2519-5417=FG_1 # (2902 | IxTheo) Orientis Aura : Macau Perspectives in Religious Studies
 1053-4202=FG_0 # (2904 | IxTheo) Anthropology of Consciousness
 1556-3537=FG_0 # (2904 | IxTheo) Anthropology of Consciousness
 0091-2131=FG_0 # (2905 | IxTheo) Ethos : journal of the Society for Psychological Anthropology
@@ -2819,7 +2819,9 @@
 2397-348X=FG_0 # (2946 | IxTheo) Interreligious studies and intercultural theology
 2242-6280=FG_0 # (2947 | IxTheo) Thanatos
 1981-7096=FG_1 # (2966 | IxTheo) Revista brasileira de direito canônico
+1422-6626=FG_1 # (2972 | IxTheo) Freiburger Veröffentlichungen zum Religionsrecht
 2569-2054=FG_0 # (2981 | IxTheo) The Turn : Zeitschrift für islamische Philosophie, Theologie und Mystik
+0340-8760=FG_1 # (2987 | IxTheo) Entscheidungen in Kirchensachen seit 1946
 1057-610X=FG_0 # (2991 | IxTheo) Studies in conflict & terrorism
 1521-0731=FG_0 # (2991 | IxTheo) Studies in conflict & terrorism
 1868-1026=FG_0 # (3020 | IxTheo) Journal of current Chinese affairs
@@ -2965,8 +2967,8 @@
 2589-7144=FG_1 # (3196 | IxTheo) Nederlandsch archief voor kerkelijke geschiedenis
 0921-9951=FG_1 # (3197 | IxTheo) Archief voor kerkelijke geschiedenis, inzonderheid van Nederland
 2589-7136=FG_1 # (3197 | IxTheo) Archief voor kerkelijke geschiedenis, inzonderheid van Nederland
-1877-8372=FG_0 # (3198 | IxTheo) Oriens
 0078-6527=FG_0 # (3198 | IxTheo) Oriens
+1877-8372=FG_0 # (3198 | IxTheo) Oriens
 0361-1957=FG_1 # (3199 | IxTheo) Bulletin of Friends Historical Association
 2330-8079=FG_1 # (3200 | IxTheo) Bulletin of Friends_ Historical Society of Philadelphia
 0034-1266=FG_1 # (3201 | IxTheo) Recherches de théologie ancienne et médiévale
@@ -3149,6 +3151,7 @@
 1866-069X=FG_0 # (3431 | IxTheo) Medaon: Magazin für Jüdisches Leben in Forschung und Bildung
 0725-6868=FG_0 # (3432 | IxTheo) Journal of intercultural studies : an internat. journal
 1469-9540=FG_0 # (3432 | IxTheo) Journal of intercultural studies : an internat. journal
+0949-7137=FG_1 # (3438 | IxTheo) Neue Zeitschrift für Arbeitsrecht : NZA. NZA-Rechtsprechungs-Report Arbeitsrecht
 2027-7695=FG_1 # (3439 | IxTheo) Studium Theologicum Xaverianum
 2307-3861=FG_1 # (3441 | IxTheo) Didajé : Revista para la formación y el acompañamiento de las iglesias cubanas
 0864-3911=FG_1 # (3442 | IxTheo) Cuba Teológica : Revista del Seminario Evangélico de Teologia
@@ -3225,8 +3228,8 @@
 0722-3501=FG_2,1 # (99 | KrimDok) Kriminalist, Der : Fachzeitschrift des BDK
 0805-5033=FG_2,1 # (100 | KrimDok) Nordisk kriminologi : nyhetsbrev
 0720-1605=FG_2,1 # (101 | KrimDok) Strafverteidiger
-1861-891X=FG_2,1 # (102 | KrimDok) Kölner Zeitschrift für Soziologie und Sozialpsychologie
 0023-2653=FG_2,1 # (102 | KrimDok) Kölner Zeitschrift für Soziologie und Sozialpsychologie
+1861-891X=FG_2,1 # (102 | KrimDok) Kölner Zeitschrift für Soziologie und Sozialpsychologie
 0930-7842=FG_2,1 # (103 | KrimDok) [DJI-Bulletin / Deutsche Ausgabe] DJI-Bulletin
 2192-9335=FG_2,1 # (104 | KrimDok) DJI-Impulse : das Bulletin des Deutschen Jugendinstituts
 0934-9200=FG_2,1 # (107 | KrimDok) Neue Kriminalpolitik : Forum für Kriminalwissenschaften, Recht und Praxis
@@ -3239,8 +3242,8 @@
 0937-9614=FG_2,1 # (117 | KrimDok) Diskurs : Studien zu Kindheit, Jugend, Familie und Gesellschaft
 1862-5002=FG_2,1 # (118 | KrimDok) Diskurs Kindheits- und Jugendforschung
 2193-9713=FG_2,1 # (118 | KrimDok) Diskurs Kindheits- und Jugendforschung
-2199-9082=FG_2,1 # (120 | KrimDok) Informationsdienst soziale Indikatoren : ISI , Sozialberichterstattung, gesellschaftliche Trends, aktuelle Informationen , eine GESIS-Publikation
 0935-218X=FG_2,1 # (120 | KrimDok) Informationsdienst soziale Indikatoren : ISI , Sozialberichterstattung, gesellschaftliche Trends, aktuelle Informationen , eine GESIS-Publikation
+2199-9082=FG_2,1 # (120 | KrimDok) Informationsdienst soziale Indikatoren : ISI , Sozialberichterstattung, gesellschaftliche Trends, aktuelle Informationen , eine GESIS-Publikation
 0863-1808=FG_2,1 # (122 | KrimDok) Berliner Journal für Soziologie
 1862-2593=FG_2,1 # (122 | KrimDok) Berliner Journal für Soziologie
 0939-608X=FG_2,1 # (123 | KrimDok) Soziale Probleme : Zeitschrift für soziale Probleme und soziale Kontrolle
@@ -3256,8 +3259,8 @@
 1236-2522=FG_2,1 # (133 | KrimDok) HEUNI newsletter / European Institute for Crime Prevention and Control, affiliated with the United Nations
 1572-9869=FG_2,1 # (134 | KrimDok) European journal on criminal policy and research
 0928-1371=FG_2,1 # (134 | KrimDok) European journal on criminal policy and research
-1571-8174=FG_2,1 # (135 | KrimDok) European journal of crime, criminal law and criminal justice
 0928-9569=FG_2,1 # (135 | KrimDok) European journal of crime, criminal law and criminal justice
+1571-8174=FG_2,1 # (135 | KrimDok) European journal of crime, criminal law and criminal justice
 0340-1804=FG_2,1 # (136 | KrimDok) Zeitschrift für Soziologie
 2366-0325=FG_2,1 # (136 | KrimDok) Zeitschrift für Soziologie
 0011-1287=FG_2,1 # (137 | KrimDok) Crime & delinquency
@@ -3306,15 +3309,15 @@
 2193-3227=FG_2,1 # (180 | KrimDok) IzKK-Nachrichten
 2193-326X=FG_2,1 # (180 | KrimDok) IzKK-Nachrichten
 0405-6779=FG_2,1 # (181 | KrimDok) Bewährungshilfe : Soziales, Strafrecht, Kriminalpolitik
-2311-424X=FG_2,1 # (182 | KrimDok) Journal für Strafrecht : JSt , Zeitschrift für Kriminalrecht, Polizeirecht und soziale Arbeit
 2312-1920=FG_2,1 # (182 | KrimDok) Journal für Strafrecht : JSt , Zeitschrift für Kriminalrecht, Polizeirecht und soziale Arbeit
+2311-424X=FG_2,1 # (182 | KrimDok) Journal für Strafrecht : JSt , Zeitschrift für Kriminalrecht, Polizeirecht und soziale Arbeit
 1729-8164=FG_2,1 # (183 | KrimDok) Criminology in Europe : newsletter of the European Society of Criminology
 1612-4278=FG_2,1 # (184 | KrimDok) Statistisches Monatsheft Baden-Württemberg
 1477-3708=FG_2,1 # (185 | KrimDok) European journal of criminology : the journal of the European Society of Criminology
 1741-2609=FG_2,1 # (185 | KrimDok) European journal of criminology : the journal of the European Society of Criminology
 1742-4003=FG_2,1 # (186 | KrimDok) Criminology in Cambridge : newsletter of the Institute of Criminology
-1862-7080=FG_2,1 # (187 | KrimDok) Forensische Psychiatrie, Psychologie, Kriminologie
 1862-7072=FG_2,1 # (187 | KrimDok) Forensische Psychiatrie, Psychologie, Kriminologie
+1862-7080=FG_2,1 # (187 | KrimDok) Forensische Psychiatrie, Psychologie, Kriminologie
 1436-9850=FG_2,1 # (188 | KrimDok) Kindesmisshandlung und -vernachlässigung : interdisziplinäre Fachzeitschrift für Prävention und Intervention
 2196-8004=FG_2,1 # (188 | KrimDok) Kindesmisshandlung und -vernachlässigung : interdisziplinäre Fachzeitschrift für Prävention und Intervention
 1051-1253=FG_2,1 # (189 | KrimDok) Journal of criminal justice education
@@ -3323,8 +3326,8 @@
 2192-1792=FG_2,1 # (191 | KrimDok) Informationsbrief für Rechtssoziologie
 0174-0202=FG_2,1 # (192 | KrimDok) Zeitschrift für Rechtssoziologie : the German journal of law and society
 2366-0392=FG_2,1 # (192 | KrimDok) Zeitschrift für Rechtssoziologie : the German journal of law and society
-0084-5310=FG_2,1 # (193 | KrimDok) Zeitschrift für die gesamte Strafrechtswissenschaft : mit Auslandsrundschau
 1612-703X=FG_2,1 # (193 | KrimDok) Zeitschrift für die gesamte Strafrechtswissenschaft : mit Auslandsrundschau
+0084-5310=FG_2,1 # (193 | KrimDok) Zeitschrift für die gesamte Strafrechtswissenschaft : mit Auslandsrundschau
 1864-5216=FG_2,1 # (194 | KrimDok) Zeitschrift für soziale Strafrechtspflege
 1862-6947=FG_2,1 # (195 | KrimDok) Eucrim : the european criminal law associations_ forum
 1863-6187=FG_2,1 # (195 | KrimDok) Eucrim : the european criminal law associations_ forum
@@ -3338,8 +3341,8 @@
 0045-902X=FG_2,1 # (204 | KrimDok) International bibliography on crime and delinquency
 0035-1733=FG_2,1 # (205 | KrimDok) RSC : revue de science criminelle et de droit pénal comparé
 0026-9301=FG_2,1 # (206 | KrimDok) Monatsschrift für Kriminalbiologie und Strafrechtsreform : Organ d. Kriminalbiologischen Gesellschaft
-0026-9301=FG_2,1 # (208 | KrimDok) Monatsschrift für Kriminologie und Strafrechtsreform
 2366-1968=FG_2,1 # (208 | KrimDok) Monatsschrift für Kriminologie und Strafrechtsreform
+0026-9301=FG_2,1 # (208 | KrimDok) Monatsschrift für Kriminologie und Strafrechtsreform
 0035-3329=FG_2,1 # (209 | KrimDok) Revue internationale de criminologie et de police technique et scientifique : organe officiel de l_Association Internationale des Criminologues de Langue Française (AICLF)
 0341-1966=FG_2,1 # (210 | KrimDok) Kriminologisches Journal
 0007-0955=FG_2,1 # (211 | KrimDok) British journal of criminology : an international review of crime and society
@@ -3351,8 +3354,8 @@
 1660-2501=FG_2,1 # (217 | KrimDok) Schweizerische Zeitschrift für Kriminologie _ = Revue suisse de criminologie : RSC = Rivista svizzera di criminologia (_ auch: Swiss journal of criminology)
 0255-3678=FG_2,1 # (218 | KrimDok) Kriminalsoziologische Bibliografie
 0724-844X=FG_2,1 # (219 | KrimDok) Forensia : interdisziplinäre Zeitschr. für Recht, Neurologie, Psychiatrie u. Psychologie
-1745-9125=FG_2,1 # (220 | KrimDok) Criminology : an interdisciplinary journal , the official publ. of the American Society of Criminology
 0011-1384=FG_2,1 # (220 | KrimDok) Criminology : an interdisciplinary journal , the official publ. of the American Society of Criminology
+1745-9125=FG_2,1 # (220 | KrimDok) Criminology : an interdisciplinary journal , the official publ. of the American Society of Criminology
 0361-5170=FG_2,1 # (221 | KrimDok) Victimology : an international journal
 0146-9177=FG_2,1 # (222 | KrimDok) Criminal justice abstracts
 0023-4699=FG_2,1 # (224 | KrimDok) Kriminalistik : unabhängige Zeitschrift für die kriminalistische Wissenschaft und Praxis
