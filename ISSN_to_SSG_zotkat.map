@@ -376,3 +376,6 @@ Religions=0 #  Religions
 1569-2124=0 # Journal of ancient Near Eastern religions
 1569-2116=0 # Journal of ancient Near Eastern religions
 1569-2116, 1569-2124=0 # Journal of ancient Near Eastern religions
+0943-8610, 2194-508X=FG_0/1 # Zeitschrift für Religionswissenschaft : ZfR
+0943-8610=FG_0/1 # Zeitschrift für Religionswissenschaft : ZfR
+2194-508X=FG_0/1 # Zeitschrift für Religionswissenschaft : ZfR
