@@ -58,9 +58,10 @@
 1871-241X=521455545 # Churchhistoryandreligiousculture
 1871-2428=521455545 # Churchhistoryandreligiousculture
 1871-2428, 1871-241X=521455545 # Churchhistoryandreligiousculture
-0946-3518=182190773 # PraktischeTheologie
-0938-5320=182190773 # PraktischeTheologie
-2198-0462=182190773 # PraktischeTheologie
+2198-0462, 0946-3518=776094556 # Praktische Theologie
+0946-3518=776094556 # Praktische Theologie
+0938-5320=776094556 # Praktische Theologie
+2198-0462=776094556 # Praktische Theologie
 0043-2040=556295676 # WegezumMenschen
 0021-1400=376275782 # Irishtheologicalquaterly
 0023-0707=55757076X # KerygmaundDogma
