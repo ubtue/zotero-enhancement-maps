@@ -96,7 +96,9 @@
 2199-4625=O # JournalofReligiousEducation
 2199-4463=O # ReligionintheRomanEmpire
 21994463,21994471=O # ReligionintheRomanEmpire
-2198-0462=A # PraktischeTheologie
+2198-0462, 0946-3518=O # Praktische Theologie
+2198-0462=O # Praktische Theologie
+0946-3518=O # Praktische Theologie
 2197-0831=O # Pastoraltheologie
 2196-8802=O # InternationalJournalofDharmaStudies
 2196-8225=O # PraxisderKinderpsychologieundKinderpsychiatrieOnlinePublikation|krimdok
