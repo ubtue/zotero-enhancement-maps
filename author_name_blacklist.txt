@@ -25,7 +25,6 @@ ASCV
 ASE
 ASP
 AugEr
-B
 BA
 BB
 BC
