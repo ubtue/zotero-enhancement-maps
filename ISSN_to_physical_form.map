@@ -377,7 +377,7 @@
 1477-8351=A # Aramaicstudies
 1477-4623=O # LiteratureandTheology
 1477-4607=O # Thejournaloftheologicalstudies!!eppn
-1477-4585=O # JournaloftheAmericanAcademyofReligion
+
 1477-0989=A # Nursingethics!!eppn
 1476-9948=O # BlackTheology
 1476-993X=O # Currentsinbiblicalresearch!!Druckausgabeausgewertetbis14.2015=genauer=nur14.2015,1
@@ -1014,7 +1014,9 @@
 0003-0279=A # JournaloftheAmericanOrientalSociety!!pppn
 0002-7650=A # TheAmericanBenedictineReview
 00027650=A # TheAmericanBenedictineReview
+1477-4585=O # JournaloftheAmericanAcademyofReligion
 0002-7189=O # JournaloftheAmericanAcademyofReligion
+0002-7189, 1477-4585=O # JournaloftheAmericanAcademyofReligion
 0002-7189,1477-4585=O # JournaloftheAmericanAcademyofReligion
 00027049=O # America
 0002-7049=A # America!!pppn
