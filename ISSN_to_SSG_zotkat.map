@@ -326,6 +326,7 @@ Religions=0 #  Religions
 0003-9659=0 # Archives de sociologie des religions
 1567-9896=0 # Aries
 1570-0593=0 # Aries
+1567-9896, 1570-0593=0 # Aries
 1436-3038=0$a1 # Archiv für Religionsgeschichte
 0043-2539=0 # Die Welt des Islams
 1570-0607=0 # Die Welt des Islam
