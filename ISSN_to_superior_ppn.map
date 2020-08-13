@@ -1090,6 +1090,7 @@ Byzantion=729751163 # Byzantion
 2214-4463=777780070 # Ecclesial Practices
 1025-9996=555687619 # European journal of jewish studies
 1872-471X=555687619 # European journal of jewish studies
+1872-471X, 1025-9996=555687619 # European journal of jewish studies
 1569-2078=367392097 # Hawwa : journal of woman in the Middle East and the Islamic world
 1569-2086=367392097 # Hawwa : journal of woman in the Middle East and the Islamic world
 0019-7246=32052972X # Indo-Iranian Journal
