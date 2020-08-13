@@ -404,3 +404,6 @@ Religions=0 #  Religions
 1662-4653=0 # Asdiwal : revue genevoise d'anthropologie et d'histoire des religions
 0028-212X=0$a1 # NTT Journal
 2164-6279=0$a1 # Journal of Hindu-Christian studies 
+1025-9996=0 # European journal of jewish studies
+1872-471X=0 # European journal of jewish studies
+1872-471X, 1025-9996=0 # European journal of jewish studies
