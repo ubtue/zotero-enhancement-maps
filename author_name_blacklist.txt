@@ -2,6 +2,9 @@ Father
 Mother
 Editor
 Dom
+Rev
+Rev.
+Reverend
 
 # Abbreviations of Catholic orders
 AA
