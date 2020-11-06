@@ -5,6 +5,7 @@ Dom
 Rev
 Rev.
 Reverend
+QC
 
 # Abbreviations of Catholic orders
 AA
