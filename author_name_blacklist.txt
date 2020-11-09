@@ -1,7 +1,6 @@
 Father
 Mother
 Editor
-Dom
 Rev
 Rev.
 Reverend
