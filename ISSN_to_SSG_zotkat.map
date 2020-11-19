@@ -448,3 +448,6 @@ Religions=0 #  Religions
 2019-0050=0 # Journal of religion and popular culture
 2109-9502=1 # Revue d'histoire de l'Eglise de France
 2050-8999=0 # Journal of Chinese religions
+2041-3599, 1871-7691=0$a1 # PentecoStudies
+2041-3599=0$a1 # PentecoStudies
+1871-7691=0$a1 # PentecoStudies
