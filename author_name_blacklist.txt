@@ -5,6 +5,7 @@ Rev
 Rev.
 Reverend
 QC
+Deacon
 
 # Abbreviations of Catholic orders
 AA
