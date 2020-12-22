@@ -463,3 +463,7 @@ Religions=0 #  Religions
 1016-4987=0$a1 # Aschkenas
 0003-0279=0$a1 # Journal of the American Oriental Society
 0043-1575=1 # The Way
+1210-3640, 2336-4475=0 # Religio: revue pro religionistiku
+1210-3640 ,  2336-4475=0 # Religio: revue pro religionistiku
+1210-3640=0 # Religio: revue pro religionistiku
+2336-4475=0 # Religio: revue pro religionistiku
