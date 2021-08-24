@@ -711,7 +711,6 @@ TOCarm
 TOF
 OFS
 TOPraem
-TOR
 TORCap
 UJD
 UNDC
