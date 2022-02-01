@@ -1054,7 +1054,7 @@
 0018-0645=A # HerderKorrespondenz
 0017-8160=O # TheHarvardtheologicalreview
 0017-8160,1475-4517=O # TheHarvardtheologicalreview
-# 0017-4114=A # Gregorianum
+0017-4114=A # Gregorianum
 0017-3916=O # Greek,Roman,andByzantineStudies
 0017-2251=O # Christianscholar’sreview
 00172251=O # Christianscholar’sreview
@@ -1444,7 +1444,6 @@
 25358863=O # Journal of Historical Network Research
 1982-2650=O # Ciencias Sociales y Religión/Ciências Sociais e Religião
 19822650=O # Ciencias Sociales y Religión/Ciências Sociais e Religião
-0017-4114=O # Gregorianum : periodicum trimestre a Pontificia Universitate Gregoriana editum
 00174114=O # Gregorianum : periodicum trimestre a Pontificia Universitate Gregoriana editum
 0000-0000=O # The @journal of gods and monsters
 2183-2803=O # Social Inclusion
