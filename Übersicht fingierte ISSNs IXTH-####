@@ -1,3 +1,4 @@
-!!! Hinweis: Eine neue fingierte ISSN muss der IT gemeldet werden damit der Import-Translator angepasst und die fingierte ISSN nach Zotero übertragen wird.
+!!! Hinweis 1: Soll eine neue fingierte ISSN definiert werden, muss die letzte Ziffer immer um 1 hochgezählt werden (nach dem Muster: IXTH-0001, IXTH-0002, usw.) 
+!!! Hinweis 2: Eine neue fingierte ISSN muss der IT gemeldet werden damit der Import-Translator angepasst und die fingierte ISSN nach Zotero übertragen wird.
 IXTH-0001 = The journal of gods and monsters (Z=3495)
 IXTH-0002 = 
