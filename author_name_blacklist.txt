@@ -1,4 +1,4 @@
-## kann nicht ergänzt werden, da eventuell auch Name: OMI, S.M.
+## kann nicht ergänzt werden, da eventuell auch Name: OMI, S.M., C.P.
 Father
 Mother
 Editor
@@ -26,3 +26,4 @@ OSM
 OSBM
 RSM
 C.S.J.
+F.S.C.
