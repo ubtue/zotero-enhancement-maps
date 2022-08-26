@@ -21,3 +21,4 @@ Emeritus
 CSsR
 FSC
 SHCJ
+OSM
