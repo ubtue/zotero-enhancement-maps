@@ -5,6 +5,7 @@ Editor
 Rabbi
 Rev
 Rev.
+Rev’d
 Reverend
 QC
 Deacon
