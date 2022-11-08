@@ -14,17 +14,15 @@
 2282-2828=KALD # Archivio Giuridico Filippo Serafini (2234)
 2035-3545=KALD # Il diritto ecclesiastico (1725)
 0570-1953=KALD # L'Annee canonique (1728)
-2040-4867=KALD # Journal of church and state (KALD) (1752)
-0021-969X=KALD # Journal of church and state (KALD) (1752)
-0082-7118=BIIN # Tyndale Bulletin (BIIN) (Z=1192)
-0021-2059=BIIN # Israel exploration journal (BIIN) (Z=1698)
-2605-3357=KALD # Vergentis (KALD) (Z=2915)
+2040-4867=KALD # Journal of church and state (1752)
+0021-969X=KALD # Journal of church and state (1752)
+0082-7118=BIIN # Tyndale Bulletin (Z=1192)
+0021-2059=BIIN # Israel exploration journal (Z=1698)
 1240-3032=BIIN # Revue Biblique (1892-1940) (JSTOR retro)
 0035-0907=BIIN # Revue Biblique (1946-) (JSTOR retro)
 2192-3124=BIIN # Zeitschrift des Deutschen Palästina-Vereins (1878-1945) (JSTOR retro)
 0012-1169=BIIN # Zeitschrift des Deutschen Palästina-Vereins (1953-) (JSTOR retro)
 0044-2895=BIIN # Zeitschrift für katholische Theologie (JSTOR-retro)
-1015-8758,2309-9089=BIIN # Acta Theologica
 2309-9089=BIIN # Acta Theologica
 1015-8758=BIIN # Acta Theologica
 10158758=BIIN # Acta Theologica
@@ -77,7 +75,6 @@
 1203-1542=BIIN # The journal of Hebrew scriptures (1701)
 2663-6573=BIIN # Journal for Semitics (1850)
 1013-8471=BIIN # Journal for Semitics (1850)
-0364-0094, 1475-4541=BIIN # AJS Review
 0364-0094=BIIN # AJS Review
 1475-4541=BIIN # AJS Review
 2159-2063=BIIN # Journal for the Study of Paul and His Letters (2030)
@@ -92,18 +89,18 @@
 1644-8561=BIIN # Verbum Vitae (3331)
 2405-7649=BIIN # Brill Research Perspectives in Biblical Interpretation (3364)
 2405-7657=BIIN # Brill Research Perspectives in Biblical Interpretation (3364)
-2385-8907, 2335-4127=BIIN # Edinost in dialog
 2385-8907=BIIN # Edinost in dialog
-23354127=BIIN # Edinost in Dialog
 2335-4127=BIIN # Edinost in Dialog
-2295-3027=KALD # StudiaCanonica
-2295-3019=KALD # StudiaCanonica
-2254-6219=KALD # Iuscanonicum
+2295-3027=KALD # Studia Canonica (1079)
+2295-3019=KALD # Studia Canonica (1079)
+2254-6219=KALD # Iuscanonicum (1564)
+0021-325X=KALD # Iuscanonicum (1564)
 1124-1179=KALD # Quaderni di diritto ecclesiale
-2353-4877, 2391-4327=KALD # Ecumeny and Law
-2353-4877=KALD # Ecumeny and Law
-2391-4327=KALD # Ecumeny and Law
-2445-2394=KALD # Vergentis : Revista de Investigación de la Cátedra Internacional conjunta Inocencio III
-2450-4955, 2451-2141=KALD # Philosophy and Canon Law
-2450-4955=KALD # Philosophy and Canon Law
-2451-2141=KALD # Philosophy and Canon Law
+2353-4877=KALD # Ecumeny and Law (2241)
+2391-4327=KALD # Ecumeny and Law (2241)
+2445-2394=KALD # Vergentis (2915)
+2605-3357=KALD # Vergentis (2915)
+2450-4955=KALD # Philosophy and Canon Law (3592)
+2451-2141=KALD # Philosophy and Canon Law (3592)
+0146-2989=KALD # Bulletin of medieval canon law (1719)
+2372-2509=KALD # Bulletin of medieval canon law (1719)
