@@ -10,8 +10,8 @@ QC
 Deacon
 S.J.
 OP
-O.p
 O.P.
+O.p
 SSVM
 Ssvm
 BDSc
