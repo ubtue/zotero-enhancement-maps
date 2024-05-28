@@ -23,6 +23,8 @@ O.S.F.S.
 OP
 OSB
 Osb
+O.s.b
+O.s.b.
 OSBM
 OSM
 QC
