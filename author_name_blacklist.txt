@@ -3,6 +3,7 @@ BDSc
 C.S.C.
 C.S.J.
 Csb
+CMR
 CSC
 CSsR
 Deacon
