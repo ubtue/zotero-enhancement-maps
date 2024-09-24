@@ -28,6 +28,7 @@ O.F.M.Cap
 O.p
 O.P.
 O.S.F.S.
+O.s.f.s
 OP
 OSB
 Osb
