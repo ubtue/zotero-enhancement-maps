@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <opml version="1.0">
+    <head>
+    <title>Feed Subscriptions</title>
+    </head>
+    <body>
+        <outline text="[237-3] Church History" title="[237] Church History" type="rss" 
+            xmlUrl="https://www.cambridge.org/core/rss/product/id/1F2C13B2F24D6E0CBA796873B43F24FB" htmlUrl="https://www.cambridge.org/core/journals/church-history/latest-issue"/>
+        <outline text="[281-2 dis?] Counseling et spiritualité" title="[281 diss?] Counseling et spiritualité / Counselling and Spirituality" type="rss" 
+            xmlUrl="https://poj.peeters-leuven.be/RSS/CS.xml" htmlUrl="http://poj.peeters-leuven.be/content.php?url=journal&amp;journal_code=CS"/>
+        <outline text="[314-2] Diálogo Ecuménico" title="[314-1] Diálogo Ecuménico" type="rss" 
+                xmlUrl="https://revistas.upsa.es/index.php/dialogoecumenico/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.upsa.es/index.php/dialogoecumenico"/>
+        <outline text="[361-4 akt. ständig] Estudos Bíblicos" title="[361] Estudos Bíblicos" type="rss" 
+                xmlUrl="https://revista.abib.org.br/EB/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revista.abib.org.br/EB"/>
+        <outline text="[830-2] PentecoStudies" title="[830] PentecoStudies" type="rss" 
+                xmlUrl="https://journal.equinoxpub.com/PENT/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/PENT"/>
+        <outline text="[948-4] Revue d&#39;Histoire et de Philosophie religieuses" title="[948] Revue d&#39;Histoire et de Philosophie religieuses" type="rss" 
+                xmlUrl="https://classiques-garnier.com/feed/catalog/fr_FR/335" htmlUrl="https://classiques-garnier.com/revue-d-histoire-et-de-philosophie-religieuses.html"/>
+        <outline text="[1127-4] Teología y Vida" title="[1127-4] Teología y Vida" type="rss" 
+                xmlUrl="https://teologiayvida.uc.cl/index.php/tyv/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://teologiayvida.uc.cl/index.php/tyv"/>
+        <outline text="[1313-4] Harvard Theological Review" title="[1313] Harvard Theological Review" type="rss" 
+                xmlUrl="https://www.cambridge.org/core/rss/product/id/F1768E6E180CAD06C94C302E6E4DE3F9" htmlUrl="https://www.cambridge.org/core/journals/harvard-theological-review/latest-issue"/>
+        <outline text="[1739-1] Koers - Bulletin for Christian Scholarship" title="[1739] Koers - Bulletin for Christian Scholarship" type="rss" 
+                xmlUrl="https://www.koersjournal.org.za/index.php/koers/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://www.koersjournal.org.za/index.php/koers"/>
+        <outline text="[1846-3] Veritas " title="[1846] Veritas " type="rss" 
+                xmlUrl="http://www.scielo.cl/rss.php?pid=0718-927320230003&amp;lang=en" htmlUrl="http://www.scielo.cl/rss.php?pid=0718-927320230003&amp;lang=en"/>
+        <outline text="[2169-3] Review of Ecumenical Studies Sibiu Feed" title="[2169] Review of Ecumenical Studies Sibiu Feed" type="rss" 
+                xmlUrl="https://intapi.sciendo.com/rss/journal/RESS" htmlUrl="https://sciendo.com/journal/RESS"/>
+        <outline text="[2529-2] Journal for Religion, Film and Media (JRFM)" title="[2529] Journal for Religion, Film and Media (JRFM)" type="rss" 
+                xmlUrl="https://jrfm.eu/index.php/ojs_jrfm/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://jrfm.eu/index.php/ojs_jrfm"/>
+        <outline text="[3075-5] International Academy of Practical Theology" title="[3075] International Academy of Practical Theology. Conference Series" type="rss" 
+                xmlUrl="https://iapt-cs.org/ojs/index.php/iaptcs/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://iapt-cs.org/ojs/index.php/iaptcs"/>
+        <outline text="[3468-0,5] DWI-Jahrbuch" title="[3468] DWI-Jahrbuch – Diakoniewissenschaft in Forschung und Lehre" type="rss" 
+                xmlUrl="https://journals.ub.uni-heidelberg.de/index.php/dwijb/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journals.ub.uni-heidelberg.de/index.php/dwijb"/>
+        <outline text="[3530-2] Ghana Journal of Religion and Theology" title="[3530-2] Ghana Journal of Religion and Theology" type="rss" 
+                xmlUrl="https://journals.ug.edu.gh/index.php/gjrt/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journals.ug.edu.gh/index.php/gjrt"/>
+        <outline text="[3556-2] Judaica. Neue digitale Folge" title="[3556 OJS] Judaica. Neue digitale Folge" type="rss" 
+                xmlUrl="https://judaica.ch/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://judaica.ch/"/>
+        <outline text="[110-3] Augustinus (Philosophy Documentation Center)" title="[110-3] Augustinus (Philosophy Documentation Center)" type="rss" 
+                xmlUrl="https://www.pdcnet.org/pdc/bvdb.nsf/getrssxml?openagent&amp;synonym=augustinus" htmlUrl="http://www.pdcnet.org"/>
+        <outline text="[300-4] Dansk Teologisk Tidsskrift" title="[300] Dansk Teologisk Tidsskrift" type="rss" 
+                xmlUrl="https://tidsskrift.dk/dtt/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://tidsskrift.dk/dtt"/>
+        <outline text="[459-2] Horizons" title="[459] Horizons" type="rss" 
+                xmlUrl="https://www.cambridge.org/core/rss/product/id/CFCB1ABDC679F449B38FC7EA5DB5FA67" htmlUrl="https://www.cambridge.org/core/journals/horizons/latest-issue"/>
+        <outline text="[538-4] Journal for the Study of Religion, Nature ..." title="[538-4] Journal for the Study of Religion, Nature ..." type="rss" 
+                xmlUrl="https://journal.equinoxpub.com/JSRNC/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/JSRNC"/>
+        <outline text="[545-2] Journal of Anglican Studies" title="[545] Journal of Anglican Studies" type="rss" 
+                xmlUrl="https://www.cambridge.org/core/rss/product/id/DA86CC46CB521C20607EB3EBE8C17BA2" htmlUrl="https://www.cambridge.org/core/journals/journal-of-anglican-studies/latest-issue"/>
+        <outline text="[623-4x] Kritisk forum for praktisk teologi" title="[623] Kritisk forum for praktisk teologi" type="rss" 
+                xmlUrl="https://www.kfpt.dk/rss.xml" htmlUrl="https://www.kfpt.dk"/>
+        <outline text="[732-1] Mitteilungen zur Kirchlichen Zeitgeschichte" title="[732] Mitteilungen zur Kirchlichen Zeitgeschichte" type="rss" 
+                xmlUrl="https://mkiz.ub.uni-muenchen.de/mkiz/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://mkiz.ub.uni-muenchen.de/mkiz"/>
+        <outline text="[843-1] Philosophy and Theology" title="[843] Philosophy and Theology" type="rss" 
+                xmlUrl="https://www.pdcnet.org/pdc/bvdb.nsf/getrssxml?openagent&amp;synonym=philtheol" htmlUrl="http://www.pdcnet.org"/>
+        <outline text="[955-2] Revue des sciences religieuses" title="[955-2] Revue des sciences religieuses" type="rss" 
+                xmlUrl="https://journals.openedition.org/rsr/backend?format=rssnumeros" htmlUrl="http://journals.openedition.org/rsr"/>
+        <outline text="[1110-1] Svensk Exegetisk Årsbok " title="[1110] Svensk Exegetisk Årsbok " type="rss" 
+                xmlUrl="https://publicera.kb.se/sea/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://publicera.kb.se/sea"/>
+        <outline text="[2046-1] Journal of Coptic Studies" title="[2046-1] Journal of Coptic Studies" type="rss" 
+                xmlUrl="http://poj.peeters-leuven.be/RSS/JCS.xml" htmlUrl="http://poj.peeters-leuven.be/content.php?url=journal&amp;journal_code=JCS"/>
+        <outline text="[2847-2] Zs. für christlich-jüdische Begegnung im Kontext" title="[2847] Zeitschrift für christlich-jüdische Begegnung im Kontext" type="rss" 
+                xmlUrl="https://zfbeg.org/ojs/index.php/cjbk/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://zfbeg.org/ojs/index.php/cjbk"/>
+        <outline text="[2872-2] Zeitschrift für Pastoraltheologie (ZPTh)" title="[2872] Zeitschrift für Pastoraltheologie (ZPTh)" type="rss" 
+                xmlUrl="https://www.uni-muenster.de/Ejournals/index.php/zpth/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://www.uni-muenster.de/Ejournals/index.php/zpth"/>
+        <outline text="[3114-2] ThéoRèmes" title="[3114-2] ThéoRèmes" type="rss" 
+                xmlUrl="http://journals.openedition.org/theoremes/backend?format=rssnumeros" htmlUrl="http://journals.openedition.org/theoremes"/>
+        <outline text="[3141-1] European Journal for the Study of Thomas Aquinas" title="[3141] European Journal for the Study of Thomas Aquinas Feed" type="rss" 
+                xmlUrl="https://intapi.sciendo.com/rss/journal/EJSTA" htmlUrl="https://sciendo.com/journal/EJSTA"/>
+        <outline text="[3343-2] Im Dialog" title="[3343] Im Dialog – Beiträge aus der Akademie der Diözese Rottenburg-Stuttgart" type="rss" 
+                xmlUrl="https://imdialog.akademie-rs.de/ojs/index.php/idadrs/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://imdialog.akademie-rs.de/ojs/index.php/idadrs"/>
+        <outline text="[3588-2] Isidorianum" title="[3588-2] Isidorianum" type="rss" 
+                xmlUrl="https://www.sanisidoro.net/publicaciones/index.php/isidorianum/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.sanisidoro.net/publicaciones/index.php/isidorianum"/>
+        <outline text="[66-1] Anuario de Historia de la Iglesia" title="[66] Anuario de Historia de la Iglesia" type="rss" 
+                xmlUrl="https://revistas.unav.edu/index.php/anuario-de-historia-iglesia/gateway/plugin/WebFeedGatewayPlugin/atom" htmlUrl="https://revistas.unav.edu/index.php/anuario-de-historia-iglesia"/>
+        <outline text="[211-1] Cauriensia" title="Untitled feed" type="rss" 
+                xmlUrl="https://www.cauriensia.es/index.php/cauriensia/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.cauriensia.es/index.php/cauriensia"/>
+        <outline text="[451-2 tägl. Upd.] Hispania Sacra" title="[451] Hispania Sacra" type="rss" 
+                xmlUrl="https://hispaniasacra.revistas.csic.es/index.php/hispaniasacra/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://hispaniasacra.revistas.csic.es/index.php/hispaniasacra"/>
+        <outline text="[663-2] Lusitania Sacra" title="[663] Lusitania Sacra" type="rss" 
+                xmlUrl="https://revistas.ucp.pt/index.php/lusitaniasacra/gateway/plugin/WebFeedGatewayPlugin/atom" htmlUrl="https://revistas.ucp.pt/index.php/lusitaniasacra"/>
+        <outline text="[934-2] Revista de Cultura Teológica" title="[934] Revista de Cultura Teológica" type="rss" 
+                xmlUrl="https://revistas.pucsp.br/index.php/culturateo/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.pucsp.br/index.php/culturateo"/>
+        <outline text="[1023-3] Scripta Theologica" title="[1023-3] Scripta Theologica" type="rss" 
+                xmlUrl="https://revistas.unav.edu/index.php/scripta-theologica/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://revistas.unav.edu/index.php/scripta-theologica"/>
+        <outline text="[1111-4] Svensk Teologisk Kvartalskrift" title="[1111] Svensk Teologisk Kvartalskrift" type="rss" 
+                xmlUrl="https://journals.lub.lu.se/STK/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journals.lub.lu.se/STK"/>
+        <outline text="[1137-2 dis?] Theoforum" title="[1137-2] Theoforum" type="rss" 
+                xmlUrl="https://poj.peeters-leuven.be/RSS/TF.xml" htmlUrl="http://poj.peeters-leuven.be/content.php?url=journal&amp;journal_code=TF"/>
+        <outline text="[1156-12] Theologische Revue" title="[1156] Theologische Revue" type="rss" 
+                xmlUrl="https://www.uni-muenster.de/Ejournals/index.php/thrv/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://www.uni-muenster.de/Ejournals/index.php/thrv"/>
+        <outline text="[1565-1] Jahrbuch für Christliche Sozialwissenschaften" title="[1565] Jahrbuch für Christliche Sozialwissenschaften" type="rss" 
+                xmlUrl="https://www.uni-muenster.de/Ejournals/index.php/jcsw/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.uni-muenster.de/Ejournals/index.php/jcsw"/>
+        <outline text="[3136-2] LIMINA - Grazer theologische Perspektiven" title="[3136 ] LIMINA - Grazer theologische Perspektiven" type="rss" 
+                xmlUrl="https://unipub.uni-graz.at/limina/rss" htmlUrl="https://unipub.uni-graz.at/limina/rss"/>
+        <outline text="[3537-4] Zeitschrift für Theologie und Philosophie" title="[3537] Zeitschrift für Theologie und Philosophie" type="rss" 
+                xmlUrl="https://ztp.jesuiten.org/index.php/ZTP/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://ztp.jesuiten.org/ZTP"/>
+        <outline text="[87-1] Archivo Dominicano" title="[87] Archivo Dominicano" type="rss" 
+                xmlUrl="https://archivodominicano.dominicos.org/ojs/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://archivodominicano.dominicos.org/ojs"/>
+        <outline text="[702-4] Medellín" title="[702-4] Medellín" type="rss" 
+                xmlUrl="https://revistas.celam.org/index.php/medellin/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.celam.org/index.php/medellin"/>
+        <outline text="[727-1] Missionalia: Southern African Journal of Missiology" title="Missionalia: Southern African Journal of Missiology (rss+xml)" type="rss" 
+                xmlUrl="https://missionalia.journals.ac.za/pub/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://missionalia.journals.ac.za/pub"/>
+        <outline text="[832-4] Perichoresis" title="[832] Perichoresis" type="rss" 
+                xmlUrl="https://intapi.sciendo.com/rss/journal/PERC" htmlUrl="https://sciendo.com/journal/PERC"/>
+        <outline text="[888-2] Questions Liturgiques/Studies in Liturgy" title="[888-2] Questions Liturgiques/Studies in Liturgy" type="rss" 
+                xmlUrl="http://poj.peeters-leuven.be/RSS/QL.xml" htmlUrl="http://poj.peeters-leuven.be/content.php?url=journal&amp;journal_code=QL"/>
+        <outline text="[905-3] Reformed Theological Review" title="[905] Reformed Theological Review" type="rss" 
+                xmlUrl="https://rtrjournal.org/index.php/RTR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://rtrjournal.org/index.php/RTR"/>
+        <outline text="[1022-4] Scottish Journal of Theology" title="[1022] Scottish Journal of Theology" type="rss" 
+                xmlUrl="https://www.cambridge.org/core/rss/product/id/7513691B30575F8675DF7AC00C63A59E" htmlUrl="https://www.cambridge.org/core/journals/scottish-journal-of-theology/latest-issue"/>
+        <outline text="[1063-2] Stromata" title="[1063 auch Mail?] Stromata" type="rss" 
+                xmlUrl="https://revistas.bibdigital.uccor.edu.ar/index.php/STRO/gateway/plugin/WebFeedGatewayPlugin/atom" htmlUrl="https://revistas.bibdigital.uccor.edu.ar/index.php/STRO"/>
+        <outline text="[1169-2] Théologiques : revue de la Faculté de Théologie .." title="[1169] Théologiques : revue de la Faculté de Théologie et de Sciences des Religions de l&#39;Université" type="rss" 
+                xmlUrl="https://www.erudit.org/fr/revues/theologi/rss.xml" htmlUrl="http://www.erudit.org/fr/"/>
+        <outline text="[1302-2] The Asbury Journal" title="[1302-2] The Asbury Journal" type="rss" 
+                xmlUrl="https://place.asburyseminary.edu/asburyjournal/recent.rss" htmlUrl="https://place.asburyseminary.edu/asburyjournal"/>
+        <outline text="[1347-4] The Journal of Ecclesiastical History" title="[1347] The Journal of Ecclesiastical History" type="rss" 
+                xmlUrl="https://www.cambridge.org/core/rss/product/id/8EF6696C5F923E985C82359461BA4F16" htmlUrl="https://www.cambridge.org/core/journals/the-journal-of-ecclesiastical-history/latest-issue"/>
+        <outline text="[1861-2] Jonathan Edwards studies" title="[1861-2] Jonathan Edwards studies" type="rss" 
+                xmlUrl="https://jestudies.yale.edu/index.php/journal/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://jestudies.yale.edu/index.php/journal"/>
+        <outline text="[1868-1] De Ethica" title="[1868 OJS] De Ethica" type="rss" 
+                xmlUrl="https://de-ethica.com/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://de-ethica.com/"/>
+        <outline text="[2680-2] Revista Albertus Magnus" title="[2680] Revista Albertus Magnus" type="rss" 
+                xmlUrl="https://revistas.usantotomas.edu.co/index.php/albertus-magnus/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.usantotomas.edu.co/index.php/albertus-magnus"/>
+        <outline text="[3111-2] Cursor_ Zeitschrift für explorative Theologie" title="[3111|2x] Cursor_ Zeitschrift für explorative Theologie" type="rss" 
+                xmlUrl="https://heiup.uni-heidelberg.de/journals/cursor/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://heiup.uni-heidelberg.de/journals/cursor"/>
+        <outline text="[3571-1] Hermeneutische Blätter" title="[3571] Hermeneutische Blätter" type="rss" 
+                xmlUrl="https://www.hermeneutische-blaetter.uzh.ch/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.hermeneutische-blaetter.uzh.ch/"/>
+        <outline text="[884-2] Quaker Studies" title="[884-2] Quaker Studies" type="rss" 
+                xmlUrl="https://quakerstudies.openlibhums.org/feed/" htmlUrl="https://quakerstudies.openlibhums.org/articles/"/>
+        <outline text="[3662-1] Diakrisis Yearbook of Theology and Philosophy" title="[3662-1] Diakrisis Yearbook of Theology and Philosophy" type="rss" 
+                xmlUrl="https://diakrisis.reviste.ubbcluj.ro/index.php/diakrisis/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://diakrisis.reviste.ubbcluj.ro/index.php/diakrisis"/>
+        <outline text="[1762-4] Business Ethics Quarterly" title="[1762-4] Business Ethics Quarterly" type="rss" 
+                xmlUrl="https://www.cambridge.org/core/rss/product/id/4E2E111F97C4EE00B2B907C831C096CB" htmlUrl="https://www.cambridge.org/core/journals/business-ethics-quarterly/latest-issue"/>
+        <outline text="[1514-4] Cambridge Quarterly of Healthcare Ethics" title="[1514-4] Cambridge Quarterly of Healthcare Ethics" type="rss" 
+                xmlUrl="https://www.cambridge.org/core/rss/product/id/608A8A88AE6452F40178C159EB0B2F12" htmlUrl="https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/latest-issue"/>
+        <outline text="[1388-4-RW] Revue de l’histoire des religions" title="[1388 OEJ] Revue de l’histoire des religions" type="rss" 
+                xmlUrl="https://journals.openedition.org/rhr/backend?format=rssdocuments" htmlUrl="http://journals.openedition.org/rhr"/>
+        <outline text="[1417-2-RW] Journal for the Cognitive Science of Religion" title="[1417] Journal for the Cognitive Science of Religion" type="rss" 
+                xmlUrl="https://journal.equinoxpub.com/JCSR/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/JCSR"/>
+        <outline text="[1419-4-RW] European Journal for Philosophy of Religion" title="[1419-4] European Journal for Philosophy of Religion" type="rss" 
+                xmlUrl="https://www.philosophy-of-religion.eu/index.php/ejpr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.philosophy-of-religion.eu/index.php/ejpr"/>
+        <outline text="[1429-4-RW] Bulletin for the Study of Religion" title="[1429-4] Bulletin for the Study of Religion" type="rss" 
+                xmlUrl="https://journal.equinoxpub.com/BSOR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.equinoxpub.com/BSOR"/>
+        <outline text="[1462-2-RW] Religionsvidenskabeligt Tidsskrift" title="[1462] Religionsvidenskabeligt Tidsskrift" type="rss" 
+                xmlUrl="https://tidsskrift.dk/rvt/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://tidsskrift.dk/rvt"/>
+        <outline text="[1476-3-RW] Journal for the Academic Study of Religion" title="[1476-3] Journal for the Academic Study of Religion" type="rss" 
+                xmlUrl="https://journal.equinoxpub.com/JASR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.equinoxpub.com/JASR"/>
+        <outline text="[1477-3-RW] Religion and American Culture" title="[1477] Religion and American Culture" type="rss" 
+                xmlUrl="https://www.cambridge.org/core/rss/product/id/9C95290E9D4E6952CFBE34517CADDCA3" htmlUrl="https://www.cambridge.org/core/journals/religion-and-american-culture/latest-issue"/>
+        <outline text="[1501-1-RW] &#39;Ilu. Revista de Ciencias de las Religiones" title="[1501] &#39;Ilu. Revista de Ciencias de las Religiones" type="rss" 
+                xmlUrl="https://revistas.ucm.es/index.php/ILUR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.ucm.es/index.php/ILUR"/>
+        <outline text="[1502-4-RW] Religious Studies" title="[1502] Religious Studies" type="rss" 
+                xmlUrl="https://www.cambridge.org/core/rss/product/id/38601D210B54555BDB22082CECA7B6CC" htmlUrl="https://www.cambridge.org/core/journals/religious-studies/latest-issue"/>
+        <outline text="[1731-2-RW] Int. J. for the Study of New Religions" title="[1731-2] Int. J. for the Study of New Religions" type="rss" 
+                xmlUrl="https://journal.equinoxpub.com/IJSNR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.equinoxpub.com/IJSNR"/>
+        <outline text="[1735-1-RW] Zeitschrift für junge Religionswissenschaft" title="[1735] Zeitschrift für junge Religionswissenschaft" type="rss" 
+                xmlUrl="https://junge-religionswissenschaft.de/ojs/index.php/zjr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://junge-religionswissenschaft.de/ojs/index.php/zjr"/>
+        <outline text="[1783-1-RW] Marburg Journal of Religion" title="[1783] Marburg Journal of Religion" type="rss" 
+                xmlUrl="https://archiv.ub.uni-marburg.de/ep/0004/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://archiv.ub.uni-marburg.de/ep/0004"/>
+        <outline text="[1795-3-RW] Revista Brasileira de História das Religiões" title="[1795] Revista Brasileira de História das Religiões" type="rss" 
+                xmlUrl="https://periodicoseletronicos.ufma.br/index.php/rbhr/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2" htmlUrl="https://periodicoseletronicos.ufma.br/index.php/rbhr"/>
+        <outline text="[1822-3-RW] Journal for the Study of Religions Ideologies" title="[1822] Journal for the Study of Religions and Ideologies" type="rss" 
+                xmlUrl="https://thenewjsri.ro/index.php/njsri/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://thenewjsri.ro/index.php/njsri"/>
+        <outline text="[1882-3-RW] Religions of South Asia" title="[1882] Religions of South Asia" type="rss" 
+                xmlUrl="https://journal.equinoxpub.com/ROSA/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/ROSA"/>
+        <outline text="[1979-?-RW] Entangled Religions" title="[1979] Entangled Religions" type="rss" 
+                xmlUrl="https://er.ceres.rub.de/index.php/ER/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://er.ceres.rub.de/index.php/ER"/>
+        <outline text="[1987-2-RW] Fieldwork in Religion" title="[1987-2] Fieldwork in Religion" type="rss" 
+                xmlUrl="https://journal.equinoxpub.com/FIR/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/FIR"/>
+        <outline text="[2002-2-RW] Ilorin Journal of Religious Studies" title="[2002-2] Ilorin Journal of Religious Studies" type="rss" 
+                xmlUrl="https://www.ajol.info/index.php/ijrs/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.ajol.info/index.php/ijrs"/>
+        <outline text="[2003-4-RW] Implicit Religion" title="Implicit Religion" type="rss" 
+                xmlUrl="https://journal.equinoxpub.com/IR/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/IR"/>
+        <outline text="[2049-2-RW] Journal of Global Buddhism" title="[2049] Journal of Global Buddhism" type="rss" 
+                xmlUrl="https://www.globalbuddhism.org/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.globalbuddhism.org/"/>
+        <outline text="[2060-3-RW] Journal of Law and Religion" title="[2060] Journal of Law and Religion" type="rss" 
+                xmlUrl="https://www.cambridge.org/core/rss/product/id/8E27515A8B4162AD2B5762D81F70612A" htmlUrl="https://www.cambridge.org/core/journals/journal-of-law-and-religion/latest-issue"/>
+        <outline text="[2145-4-RW] Politics and Religion" title="[2145] Politics and Religion" type="rss" 
+                xmlUrl="https://www.cambridge.org/core/rss/product/id/8D26C11BBFAEB43F361AA24FA1C22A5D" htmlUrl="https://www.cambridge.org/core/journals/politics-and-religion/latest-issue"/>
+        <outline text="[2147-2-RW] Pomegranate" title="[2147] Pomegranate: The International Journal of Pagan Studies" type="rss" 
+                xmlUrl="https://journal.equinoxpub.com/POM/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.equinoxpub.com/POM"/>
+        <outline text="[2146-2-RW] Politics and Religion Journal" title="[2146-2] Politics and Religion Journal" type="rss" 
+                xmlUrl="https://www.politicsandreligionjournal.com/index.php/prj/gateway/plugin/WebFeedGatewayPlugin/atom" htmlUrl="https://www.politicsandreligionjournal.com/index.php/prj"/>
+        <outline text="[2675-2-RW] Approaching Religion" title="[2675] Approaching Religion" type="rss" 
+                xmlUrl="https://journal.fi/ar/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.fi/ar"/>
+        <outline text="[2795-1-RW] Journal of the British Association .." title="[2795] Journal of the British Association for the Study of Religion (JBASR)" type="rss" 
+                xmlUrl="http://jbasr.com/ojs/index.php/jbasr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://jbasr.com/ojs/index.php/jbasr"/>
+        <outline text="[2868-2-RW] Correspondences" title="[2868-2] Correspondences" type="rss" 
+                xmlUrl="https://correspondencesjournal.com/feed/" htmlUrl="https://correspondencesjournal.com"/>
+        <outline text="[2685-1-RW] Kernos" title="[2685] Kernos" type="rss" 
+                xmlUrl="https://journals.openedition.org/kernos/backend?format=rssdocuments" htmlUrl="http://journals.openedition.org/kernos"/>
+        <outline text="[2687-1-RW] Ciencias Sociales y Religión" title="[2687-1] Ciencias Sociales y Religión" type="rss" 
+                xmlUrl="https://periodicos.sbu.unicamp.br/ojs/index.php/csr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://periodicos.sbu.unicamp.br/ojs/index.php/csr"/>
+        <outline text="[2822-1-RW] Zeitschrift für Religionskunde" title="[2822] Zeitschrift für Religionskunde" type="rss" 
+                xmlUrl="https://www.zfrk-rdsr.ch/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.zfrk-rdsr.ch/"/>
+        <outline text="[2906-2-RW] Dini Araştırmalar (Religious Studies)" title="[2906] Dini Araştırmalar (Religious Studies)" type="rss" xmlUrl="https://dergipark.org.tr/tr/pub/da/rss/lastissue/en" htmlUrl="https://dergipark.org.tr/tr/pub/da"/>
+        <outline text="[2946-2-RW] Interreligious Studies and Intercultural Theo.." title="[2946-2] Interreligious Studies and Intercultural Theology" type="rss" 
+                xmlUrl="https://journal.equinoxpub.com/ISIT/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/ISIT"/>
+        <outline text="[3511-1-RW] Mythos" title="[3511] Mythos" type="rss" 
+                xmlUrl="https://journals.openedition.org/mythos/backend?format=rssnumeros" htmlUrl="http://journals.openedition.org/mythos"/>
+        <outline text="[3580-2-RW] Uskonnontutkija" title="[3580-2] Uskonnontutkija" type="rss" 
+                xmlUrl="https://journal.fi/uskonnontutkija/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.fi/uskonnontutkija"/>
+        <outline text="[3623-2-RW] AЯGOS" title="[3623-2] AЯGOS" type="rss" 
+                xmlUrl="https://www.journal-argos.org/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.journal-argos.org/"/>
+        <outline text="[3744-1-RW] UJRHR" title="[2071] Journal of Religion and Human Relations" type="rss" 
+                xmlUrl="https://www.ajol.info/index.php/jrhr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.ajol.info/index.php/jrhr"/>
+    </body>
+    </opml>
