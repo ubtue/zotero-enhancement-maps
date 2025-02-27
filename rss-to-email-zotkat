@@ -46,7 +46,7 @@
                 xmlUrl="https://journal.equinoxpub.com/JSRNC/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/JSRNC"/>
         <outline text="[545-2] Journal of Anglican Studies" title="[545] Journal of Anglican Studies" type="rss" 
                 xmlUrl="https://www.cambridge.org/core/rss/product/id/DA86CC46CB521C20607EB3EBE8C17BA2" htmlUrl="https://www.cambridge.org/core/journals/journal-of-anglican-studies/latest-issue"/>
-        <outline text="[623-4x] Kritisk forum for praktisk teologi" title="[623] Kritisk forum for praktisk teologi" type="rss" 
+        <outline text="[623-4] Kritisk forum for praktisk teologi" title="[623] Kritisk forum for praktisk teologi" type="rss" 
                 xmlUrl="https://www.kfpt.dk/rss.xml" htmlUrl="https://www.kfpt.dk"/>
         <outline text="[732-1] Mitteilungen zur Kirchlichen Zeitgeschichte" title="[732] Mitteilungen zur Kirchlichen Zeitgeschichte" type="rss" 
                 xmlUrl="https://mkiz.ub.uni-muenchen.de/mkiz/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://mkiz.ub.uni-muenchen.de/mkiz"/>
@@ -205,5 +205,8 @@
                 xmlUrl="https://www.journal-argos.org/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.journal-argos.org/"/>
         <outline text="[3744-1-RW] UJRHR" title="[2071] Journal of Religion and Human Relations" type="rss" 
                 xmlUrl="https://www.ajol.info/index.php/jrhr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.ajol.info/index.php/jrhr"/>
+        <outline text="[3683-1] Studies in church history" title="[3683-1] Studies in church history" type="rss" 
+                xmlUrl="https://www.cambridge.org/core/rss/product/id/BAFE547C36B3016481364E2DB5BE6179" htmlUrl="https://www.cambridge.org/core/"/>
+
     </body>
     </opml>
