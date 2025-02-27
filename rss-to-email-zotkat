@@ -203,7 +203,7 @@
                 xmlUrl="https://journal.fi/uskonnontutkija/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.fi/uskonnontutkija"/>
         <outline text="[3623-2-RW] AЯGOS" title="[3623-2] AЯGOS" type="rss" 
                 xmlUrl="https://www.journal-argos.org/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.journal-argos.org/"/>
-        <outline text="[3744-1-RW] UJRHR" title="[2071] Journal of Religion and Human Relations" type="rss" 
+        <outline text="[3744-1-RW] UJRHR" title="[3744] Journal of Religion and Human Relations" type="rss" 
                 xmlUrl="https://www.ajol.info/index.php/jrhr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.ajol.info/index.php/jrhr"/>
         <outline text="[3683-1] Studies in church history" title="[3683-1] Studies in church history" type="rss" 
                 xmlUrl="https://www.cambridge.org/core/rss/product/id/BAFE547C36B3016481364E2DB5BE6179" htmlUrl="https://www.cambridge.org/core/"/>
