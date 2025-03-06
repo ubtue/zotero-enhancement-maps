@@ -207,6 +207,7 @@
                 xmlUrl="https://www.ajol.info/index.php/jrhr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.ajol.info/index.php/jrhr"/>
         <outline text="[3683-1] Studies in church history" title="[3683-1] Studies in church history" type="rss" 
                 xmlUrl="https://www.cambridge.org/core/rss/product/id/BAFE547C36B3016481364E2DB5BE6179" htmlUrl="https://www.cambridge.org/core/"/>
-
+        <outline text="[3646-2] transformatio;" title="[3646-2] transformatio;" type="rss" 
+                xmlUrl="https://transformatio-journal.org/ojs/index.php/trans/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://transformatio-journal.org/ojs/index.php/trans"/>
     </body>
     </opml>
