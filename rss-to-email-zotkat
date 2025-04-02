@@ -217,5 +217,7 @@
                 xmlUrl="https://jps.library.utoronto.ca/index.php/renref/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://jps.library.utoronto.ca/index.php/renref"/>
         <outline text="[2909-2-RW] Body and Religion" title="[2909-2-RW] Body and Religion" type="rss" 
                 xmlUrl="https://journal.equinoxpub.com/BAR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.equinoxpub.com/BAR"/>
+        <outline text="[2501-1-RW] Religion and Society in Central and Eastern Europe" title="[2501-1-RW] Religion and Society in Central and Eastern Europe" type="rss" 
+                xmlUrl="https://rascee.net/index.php/rascee/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://rascee.net/index.php/rascee"/>
     </body>
     </opml>
