@@ -213,5 +213,7 @@
                 xmlUrl="https://www.lascuolacattolica.it/ojs/index.php/lsc/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.lascuolacattolica.it/ojs/index.php/lsc"/>
         <outline text="[916-3] Religionspädagogische Beiträge" title="[916-3] Religionspädagogische Beiträge" type="rss" 
                 xmlUrl="https://rpb-journal.de/index.php/rpb/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://rpb-journal.de/index.php/rpb"/>
+        <outline text="[921-4] Renaissance and Reformation" title="[921-4] Renaissance and Reformation" type="rss" 
+                xmlUrl="https://jps.library.utoronto.ca/index.php/renref/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://jps.library.utoronto.ca/index.php/renref"/>
     </body>
     </opml>
