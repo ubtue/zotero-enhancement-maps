@@ -23,7 +23,7 @@
         <outline text="[1739-1] Koers - Bulletin for Christian Scholarship" title="[1739] Koers - Bulletin for Christian Scholarship" type="rss" 
                 xmlUrl="https://www.koersjournal.org.za/index.php/koers/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://www.koersjournal.org.za/index.php/koers"/>
         <outline text="[1846-3] Veritas " title="[1846] Veritas " type="rss" 
-                xmlUrl="http://www.scielo.cl/rss.php?pid=0718-927320230003&amp;lang=en" htmlUrl="http://www.scielo.cl/rss.php?pid=0718-927320230003&amp;lang=en"/>
+                xmlUrl="https://ojs.uc.cl/index.php/veritas/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://ojs.uc.cl/index.php/veritas"/>
         <outline text="[2169-3] Review of Ecumenical Studies Sibiu Feed" title="[2169] Review of Ecumenical Studies Sibiu Feed" type="rss" 
                 xmlUrl="https://intapi.sciendo.com/rss/journal/RESS" htmlUrl="https://sciendo.com/journal/RESS"/>
         <outline text="[2529-2] Journal for Religion, Film and Media (JRFM)" title="[2529] Journal for Religion, Film and Media (JRFM)" type="rss" 
