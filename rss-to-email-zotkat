@@ -102,8 +102,6 @@
                 xmlUrl="https://missionalia.journals.ac.za/pub/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://missionalia.journals.ac.za/pub"/>
         <outline text="[832-4] Perichoresis" title="[832] Perichoresis" type="rss" 
                 xmlUrl="https://intapi.sciendo.com/rss/journal/PERC" htmlUrl="https://sciendo.com/journal/PERC"/>
-        <outline text="[888-2] Questions Liturgiques/Studies in Liturgy" title="[888-2] Questions Liturgiques/Studies in Liturgy" type="rss" 
-                xmlUrl="http://poj.peeters-leuven.be/RSS/QL.xml" htmlUrl="http://poj.peeters-leuven.be/content.php?url=journal&amp;journal_code=QL"/>
         <outline text="[905-3] Reformed Theological Review" title="[905] Reformed Theological Review" type="rss" 
                 xmlUrl="https://rtrjournal.org/index.php/RTR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://rtrjournal.org/index.php/RTR"/>
         <outline text="[1022-4] Scottish Journal of Theology" title="[1022] Scottish Journal of Theology" type="rss" 
