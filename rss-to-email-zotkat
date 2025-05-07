@@ -66,8 +66,6 @@
                 xmlUrl="http://journals.openedition.org/theoremes/backend?format=rssnumeros" htmlUrl="http://journals.openedition.org/theoremes"/>
         <outline text="[3141-1] European Journal for the Study of Thomas Aquinas" title="[3141] European Journal for the Study of Thomas Aquinas Feed" type="rss" 
                 xmlUrl="https://intapi.sciendo.com/rss/journal/EJSTA" htmlUrl="https://sciendo.com/journal/EJSTA"/>
-        <outline text="[3343-2] Im Dialog" title="[3343] Im Dialog – Beiträge aus der Akademie der Diözese Rottenburg-Stuttgart" type="rss" 
-                xmlUrl="https://imdialog.akademie-rs.de/ojs/index.php/idadrs/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://imdialog.akademie-rs.de/ojs/index.php/idadrs"/>
         <outline text="[3588-2] Isidorianum" title="[3588-2] Isidorianum" type="rss" 
                 xmlUrl="https://www.sanisidoro.net/publicaciones/index.php/isidorianum/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.sanisidoro.net/publicaciones/index.php/isidorianum"/>
         <outline text="[66-1] Anuario de Historia de la Iglesia" title="[66] Anuario de Historia de la Iglesia" type="rss" 
