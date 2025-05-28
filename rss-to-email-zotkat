@@ -46,8 +46,6 @@
                 xmlUrl="https://journal.equinoxpub.com/JSRNC/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/JSRNC"/>
         <outline text="[545-2] Journal of Anglican Studies" title="[545] Journal of Anglican Studies" type="rss" 
                 xmlUrl="https://www.cambridge.org/core/rss/product/id/DA86CC46CB521C20607EB3EBE8C17BA2" htmlUrl="https://www.cambridge.org/core/journals/journal-of-anglican-studies/latest-issue"/>
-        <outline text="[623-4] Kritisk forum for praktisk teologi" title="[623] Kritisk forum for praktisk teologi" type="rss" 
-                xmlUrl="https://www.kfpt.dk/rss.xml" htmlUrl="https://www.kfpt.dk"/>
         <outline text="[732-1] Mitteilungen zur Kirchlichen Zeitgeschichte" title="[732] Mitteilungen zur Kirchlichen Zeitgeschichte" type="rss" 
                 xmlUrl="https://mkiz.ub.uni-muenchen.de/mkiz/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://mkiz.ub.uni-muenchen.de/mkiz"/>
         <outline text="[843-1] Philosophy and Theology" title="[843] Philosophy and Theology" type="rss" 
