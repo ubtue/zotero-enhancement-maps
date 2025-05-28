@@ -134,8 +134,6 @@
                 xmlUrl="https://journals.openedition.org/rhr/backend?format=rssdocuments" htmlUrl="http://journals.openedition.org/rhr"/>
         <outline text="[1417-2-RW] Journal for the Cognitive Science of Religion" title="[1417] Journal for the Cognitive Science of Religion" type="rss" 
                 xmlUrl="https://journal.equinoxpub.com/JCSR/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/JCSR"/>
-        <outline text="[1419-4-RW] European Journal for Philosophy of Religion" title="[1419-4] European Journal for Philosophy of Religion" type="rss" 
-                xmlUrl="https://www.philosophy-of-religion.eu/index.php/ejpr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.philosophy-of-religion.eu/index.php/ejpr"/>
         <outline text="[1429-4-RW] Bulletin for the Study of Religion" title="[1429-4] Bulletin for the Study of Religion" type="rss" 
                 xmlUrl="https://journal.equinoxpub.com/BSOR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.equinoxpub.com/BSOR"/>
         <outline text="[1462-2-RW] Religionsvidenskabeligt Tidsskrift" title="[1462] Religionsvidenskabeligt Tidsskrift" type="rss" 
