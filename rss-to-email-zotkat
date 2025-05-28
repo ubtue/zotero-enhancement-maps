@@ -104,8 +104,7 @@
                 xmlUrl="https://rtrjournal.org/index.php/RTR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://rtrjournal.org/index.php/RTR"/>
         <outline text="[1022-4] Scottish Journal of Theology" title="[1022] Scottish Journal of Theology" type="rss" 
                 xmlUrl="https://www.cambridge.org/core/rss/product/id/7513691B30575F8675DF7AC00C63A59E" htmlUrl="https://www.cambridge.org/core/journals/scottish-journal-of-theology/latest-issue"/>
-        <outline text="[1063-2] Stromata" title="[1063 auch Mail?] Stromata" type="rss" 
-                xmlUrl="https://revistas.bibdigital.uccor.edu.ar/index.php/STRO/gateway/plugin/WebFeedGatewayPlugin/atom" htmlUrl="https://revistas.bibdigital.uccor.edu.ar/index.php/STRO"/>
+
         <outline text="[1169-2] Théologiques : revue de la Faculté de Théologie .." title="[1169] Théologiques : revue de la Faculté de Théologie et de Sciences des Religions de l&#39;Université" type="rss" 
                 xmlUrl="https://www.erudit.org/fr/revues/theologi/rss.xml" htmlUrl="http://www.erudit.org/fr/"/>
         <outline text="[1302-2] The Asbury Journal" title="[1302-2] The Asbury Journal" type="rss" 
