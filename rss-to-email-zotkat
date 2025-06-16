@@ -211,5 +211,7 @@
                 xmlUrl="https://campus-der-theologien.de/ojs/index.php/cdt/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://campus-der-theologien.de/ojs/index.php/cdt/"/>
         <outline text="[939-3] REVISTA ESPAÑOLA DE TEOLOGÍA" title="[939-3] REVISTA ESPAÑOLA DE TEOLOGÍA" type="rss" 
                 xmlUrl="https://revistas.sandamaso.es/revistaespanoladeteologia/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.sandamaso.es/revistaespanoladeteologia/"/>
+        <outline text="[3836-2] RELIER" title="[3836-2] RELIER" type="rss" 
+                xmlUrl="https://www.erudit.org/fr/revues/relier/rss.xml" htmlUrl="https://www.erudit.org/fr/revues/relier/"/>
     </body>
     </opml>
