@@ -134,8 +134,6 @@
                 xmlUrl="https://tidsskrift.dk/rvt/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://tidsskrift.dk/rvt"/>
         <outline text="[1476-3-RW] Journal for the Academic Study of Religion" title="[1476-3] Journal for the Academic Study of Religion" type="rss" 
                 xmlUrl="https://journal.equinoxpub.com/JASR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.equinoxpub.com/JASR"/>
-        <outline text="[1477-3-RW] Religion and American Culture" title="[1477] Religion and American Culture" type="rss" 
-                xmlUrl="https://www.cambridge.org/core/rss/product/id/9C95290E9D4E6952CFBE34517CADDCA3" htmlUrl="https://www.cambridge.org/core/journals/religion-and-american-culture/latest-issue"/>
         <outline text="[1501-1-RW] &#39;Ilu. Revista de Ciencias de las Religiones" title="[1501] &#39;Ilu. Revista de Ciencias de las Religiones" type="rss" 
                 xmlUrl="https://revistas.ucm.es/index.php/ILUR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.ucm.es/index.php/ILUR"/>
         <outline text="[1502-4-RW] Religious Studies" title="[1502] Religious Studies" type="rss" 
