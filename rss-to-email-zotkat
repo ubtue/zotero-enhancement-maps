@@ -213,5 +213,7 @@
                 xmlUrl="https://www.erudit.org/fr/revues/relier/rss.xml" htmlUrl="https://www.erudit.org/fr/revues/relier/"/>
         <outline text="[1547-2] Apulia theologica" title="[1547-2] Apulia theologica" type="rss" 
                 xmlUrl="https://www.apuliatheologica.it/ojs/index.php/at/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.apuliatheologica.it/ojs/index.php/at/"/>
+        <outline text="[1009-3] Salmanticensis" title="[1009-3] Salmanticensis" type="rss" 
+                xmlUrl="https://revistas.upsa.es/index.php/salmanticensis/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.upsa.es/index.php/salmanticensis/"/>
     </body>
     </opml>
