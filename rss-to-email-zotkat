@@ -32,8 +32,6 @@
                 xmlUrl="https://iapt-cs.org/ojs/index.php/iaptcs/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://iapt-cs.org/ojs/index.php/iaptcs"/>
         <outline text="[3468-0,5] DWI-Jahrbuch" title="[3468] DWI-Jahrbuch – Diakoniewissenschaft in Forschung und Lehre" type="rss" 
                 xmlUrl="https://journals.ub.uni-heidelberg.de/index.php/dwijb/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journals.ub.uni-heidelberg.de/index.php/dwijb"/>
-        <outline text="[3530-2] Ghana Journal of Religion and Theology" title="[3530-2] Ghana Journal of Religion and Theology" type="rss" 
-                xmlUrl="https://journals.ug.edu.gh/index.php/gjrt/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journals.ug.edu.gh/index.php/gjrt"/>
         <outline text="[3556-2] Judaica. Neue digitale Folge" title="[3556 OJS] Judaica. Neue digitale Folge" type="rss" 
                 xmlUrl="https://judaica.ch/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://judaica.ch/"/>
         <outline text="[110-3] Augustinus (Philosophy Documentation Center)" title="[110-3] Augustinus (Philosophy Documentation Center)" type="rss" 
