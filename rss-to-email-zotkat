@@ -213,5 +213,7 @@
                 xmlUrl="https://www.apuliatheologica.it/ojs/index.php/at/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.apuliatheologica.it/ojs/index.php/at/"/>
         <outline text="[1009-3] Salmanticensis" title="[1009-3] Salmanticensis" type="rss" 
                 xmlUrl="https://revistas.upsa.es/index.php/salmanticensis/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.upsa.es/index.php/salmanticensis/"/>
+        <outline text="[3714-2] Theological Reflections: Eastern European Journal of Theology" title="[3714-2] Theological Reflections: Eastern European Journal of Theology" type="rss" 
+                xmlUrl="http://reflections.eeit-edu.info/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="http://reflections.eeit-edu.info/"/>
     </body>
     </opml>
