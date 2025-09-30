@@ -215,5 +215,7 @@
                 xmlUrl="https://revistas.upsa.es/index.php/salmanticensis/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.upsa.es/index.php/salmanticensis/"/>
         <outline text="[3714-2] Theological Reflections: Eastern European Journal of Theology" title="[3714-2] Theological Reflections: Eastern European Journal of Theology" type="rss" 
                 xmlUrl="http://reflections.eeit-edu.info/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="http://reflections.eeit-edu.info/"/>
+        <outline text="[1201-2] Uniting Church Studies" title="[1201-2] Uniting Church Studies" type="rss" 
+                xmlUrl="https://unitingchurchstudies.org.au/index.php/ucs/gateway/plugin/WebFeedGatewayPlugin/atom" htmlUrl="https://unitingchurchstudies.org.au/index.php/ucs/"/>
     </body>
     </opml>
