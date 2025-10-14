@@ -217,5 +217,7 @@
                 xmlUrl="http://reflections.eeit-edu.info/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="http://reflections.eeit-edu.info/"/>
         <outline text="[1201-2] Uniting Church Studies" title="[1201-2] Uniting Church Studies" type="rss" 
                 xmlUrl="https://unitingchurchstudies.org.au/index.php/ucs/gateway/plugin/WebFeedGatewayPlugin/atom" htmlUrl="https://unitingchurchstudies.org.au/index.php/ucs/"/>
+        <outline text="[1147-1] Theologie für die Praxis" title="[1147-1] Theologie für die Praxis" type="rss" 
+                xmlUrl="https://thfpr.de/ojs/index.php/thfpr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://thfpr.de/ojs/index.php/thfpr/"/>
     </body>
     </opml>
