@@ -221,5 +221,7 @@
                 xmlUrl="https://thfpr.de/ojs/index.php/thfpr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://thfpr.de/ojs/index.php/thfpr/"/>
         <outline text="[247-1] Collectanea Christiana Orientalia" title="[247-1] Collectanea Christiana Orientalia" type="rss" 
                 xmlUrl="https://journals.uco.es/cco/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journals.uco.es/cco/"/>
+        <outline text="[663-1] Lusitania Sacra" title="[663-1] Lusitania Sacra" type="rss" 
+                xmlUrl="https://revistas.ucp.pt/index.php/lusitaniasacra/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.ucp.pt/"/>
     </body>
     </opml>
