@@ -193,8 +193,6 @@
                 xmlUrl="https://www.cambridge.org/core/rss/product/id/BAFE547C36B3016481364E2DB5BE6179" htmlUrl="https://www.cambridge.org/core/"/>
         <outline text="[3646-2] transformatio;" title="[3646-2] transformatio;" type="rss" 
                 xmlUrl="https://transformatio-journal.org/ojs/index.php/trans/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://transformatio-journal.org/ojs/index.php/trans"/>
-        <outline text="[1026-4] La Scuola Cattolica" title="[1026-4] La Scuola Cattolica" type="rss" 
-                xmlUrl="https://www.lascuolacattolica.it/ojs/index.php/lsc/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.lascuolacattolica.it/ojs/index.php/lsc"/>
         <outline text="[916-3] Religionspädagogische Beiträge" title="[916-3] Religionspädagogische Beiträge" type="rss" 
                 xmlUrl="https://rpb-journal.de/index.php/rpb/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://rpb-journal.de/index.php/rpb"/>
         <outline text="[921-4] Renaissance and Reformation" title="[921-4] Renaissance and Reformation" type="rss" 
