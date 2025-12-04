@@ -201,7 +201,7 @@
                 xmlUrl="https://journal.equinoxpub.com/BAR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.equinoxpub.com/BAR"/>
         <outline text="[2501-1-RW] Religion and Society in Central and Eastern Europe" title="[2501-1-RW] Religion and Society in Central and Eastern Europe" type="rss" 
                 xmlUrl="https://rascee.net/index.php/rascee/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://rascee.net/index.php/rascee"/>
-        <outline text="[3819-?] Campus der Theologien" title="[3819-?] Campus der Theologien" type="rss" 
+        <outline text="[3819-2] Campus der Theologien" title="[3819-2] Campus der Theologien" type="rss" 
                 xmlUrl="https://campus-der-theologien.de/ojs/index.php/cdt/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://campus-der-theologien.de/ojs/index.php/cdt/"/>
         <outline text="[939-3] REVISTA ESPAÑOLA DE TEOLOGÍA" title="[939-3] REVISTA ESPAÑOLA DE TEOLOGÍA" type="rss" 
                 xmlUrl="https://revistas.sandamaso.es/revistaespanoladeteologia/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.sandamaso.es/revistaespanoladeteologia/"/>
