@@ -219,5 +219,7 @@
                 xmlUrl="https://journals.uco.es/cco/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journals.uco.es/cco/"/>
         <outline text="[663-1] Lusitania Sacra" title="[663-1] Lusitania Sacra" type="rss" 
                 xmlUrl="https://revistas.ucp.pt/index.php/lusitaniasacra/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.ucp.pt/"/>
+        <outline text="[623-3] Kritisk forum for praktisk teologi" title="[623-3] Kritisk forum for praktisk teologi" type="rss" 
+                xmlUrl="https://tidsskrift.dk/kfpt/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://tidsskrift.dk/kfpt/"/>
     </body>
     </opml>
