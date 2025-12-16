@@ -170,8 +170,6 @@
                 xmlUrl="https://journal.fi/ar/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.fi/ar"/>
         <outline text="[2795-1-RW] Journal of the British Association .." title="[2795] Journal of the British Association for the Study of Religion (JBASR)" type="rss" 
                 xmlUrl="http://jbasr.com/ojs/index.php/jbasr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://jbasr.com/ojs/index.php/jbasr"/>
-        <outline text="[2868-2-RW] Correspondences" title="[2868-2] Correspondences" type="rss" 
-                xmlUrl="https://correspondencesjournal.com/feed/" htmlUrl="https://correspondencesjournal.com"/>
         <outline text="[2685-1-RW] Kernos" title="[2685] Kernos" type="rss" 
                 xmlUrl="https://journals.openedition.org/kernos/backend?format=rssdocuments" htmlUrl="http://journals.openedition.org/kernos"/>
         <outline text="[2687-1-RW] Ciencias Sociales y Religión" title="[2687-1] Ciencias Sociales y Religión" type="rss" 
