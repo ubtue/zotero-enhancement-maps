@@ -141,7 +141,7 @@
         <outline text="[1783-1-RW] Marburg Journal of Religion" title="[1783] Marburg Journal of Religion" type="rss" 
                 xmlUrl="https://archiv.ub.uni-marburg.de/ep/0004/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://archiv.ub.uni-marburg.de/ep/0004"/>
         <outline text="[1795-3-RW] Revista Brasileira de História das Religiões" title="[1795] Revista Brasileira de História das Religiões" type="rss" 
-                xmlUrl="https://periodicoseletronicos.ufma.br/index.php/rbhr/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2" htmlUrl="https://periodicoseletronicos.ufma.br/index.php/rbhr"/>
+                xmlUrl="https://periodicoseletronicos.ufma.br/index.php/rbhr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://periodicoseletronicos.ufma.br/index.php/rbhr/"/>
         <outline text="[1822-3-RW] Journal for the Study of Religions Ideologies" title="[1822] Journal for the Study of Religions and Ideologies" type="rss" 
                 xmlUrl="https://thenewjsri.ro/index.php/njsri/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://thenewjsri.ro/index.php/njsri"/>
         <outline text="[1882-3-RW] Religions of South Asia" title="[1882] Religions of South Asia" type="rss" 
