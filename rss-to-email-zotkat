@@ -72,8 +72,6 @@
                 xmlUrl="https://hispaniasacra.revistas.csic.es/index.php/hispaniasacra/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://hispaniasacra.revistas.csic.es/index.php/hispaniasacra"/>
         <outline text="[663-2] Lusitania Sacra" title="[663] Lusitania Sacra" type="rss" 
                 xmlUrl="https://revistas.ucp.pt/index.php/lusitaniasacra/gateway/plugin/WebFeedGatewayPlugin/atom" htmlUrl="https://revistas.ucp.pt/index.php/lusitaniasacra"/>
-        <outline text="[934-2] Revista de Cultura Teológica" title="[934] Revista de Cultura Teológica" type="rss" 
-                xmlUrl="https://revistas.pucsp.br/index.php/culturateo/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.pucsp.br/index.php/culturateo"/>
         <outline text="[1023-3] Scripta Theologica" title="[1023-3] Scripta Theologica" type="rss" 
                 xmlUrl="https://revistas.unav.edu/index.php/scripta-theologica/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://revistas.unav.edu/index.php/scripta-theologica"/>
         <outline text="[1111-4] Svensk Teologisk Kvartalskrift" title="[1111] Svensk Teologisk Kvartalskrift" type="rss" 
