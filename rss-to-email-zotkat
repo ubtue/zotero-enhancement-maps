@@ -219,5 +219,7 @@
                 xmlUrl="https://tidsskrift.dk/kfpt/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://tidsskrift.dk/kfpt/"/>
         <outline text="[1423-4-RW] Zygon" title="[1423-4-RW] Zygon" type="rss" 
                 xmlUrl="https://www.zygonjournal.org/rss/" htmlUrl="https://www.zygonjournal.org/"/>
+        <outline text="[1227-1] Vox Scripturae" title="[1227-1] Vox Scripturae" type="rss" 
+                xmlUrl="https://voxscripturae.com.br/index.php/revista/de/gateway/plugin/WebFeedGatewayPlugin/atom" htmlUrl="https://voxscripturae.com.br/index.php/revista/de/"/>
     </body>
     </opml>
