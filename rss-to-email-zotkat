@@ -221,5 +221,7 @@
                 xmlUrl="https://www.zygonjournal.org/rss/" htmlUrl="https://www.zygonjournal.org/"/>
         <outline text="[1227-1] Vox Scripturae" title="[1227-1] Vox Scripturae" type="rss" 
                 xmlUrl="https://voxscripturae.com.br/index.php/revista/de/gateway/plugin/WebFeedGatewayPlugin/atom" htmlUrl="https://voxscripturae.com.br/index.php/revista/de/"/>
+        <outline text="[2110-2] Revista Mandrágora" title="[2110-2] Revista Mandrágora" type="rss" 
+                xmlUrl="https://www.periodicos.unimontes.br/index.php/revistamandragora/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.periodicos.unimontes.br/index.php/revistamandragora/"/>
     </body>
     </opml>
