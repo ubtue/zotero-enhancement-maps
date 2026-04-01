@@ -1,1 +1,1 @@
-wirkungsjahr=(periodOfActivity:"21. Jh." OR periodOfActivity:(19* OR 20*))
+wirkungsjahr=(periodOfActivity:(19* OR 20*))
