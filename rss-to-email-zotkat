@@ -121,7 +121,7 @@
         <outline text="[1514-4] Cambridge Quarterly of Healthcare Ethics" title="[1514-4] Cambridge Quarterly of Healthcare Ethics" type="rss" 
                 xmlUrl="https://www.cambridge.org/core/rss/product/id/608A8A88AE6452F40178C159EB0B2F12" htmlUrl="https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/latest-issue"/>
         <outline text="[1388-4-RW] Revue de l’histoire des religions" title="[1388 OEJ] Revue de l’histoire des religions" type="rss" 
-                xmlUrl="https://journals.openedition.org/rhr/backend?format=rssdocuments" htmlUrl="http://journals.openedition.org/rhr"/>
+                xmlUrl="https://journals.openedition.org/rhr/backend?format=rssnumeros" htmlUrl="https://journals.openedition.org/rhr"/>
         <outline text="[1417-2-RW] Journal for the Cognitive Science of Religion" title="[1417] Journal for the Cognitive Science of Religion" type="rss" 
                 xmlUrl="https://journal.equinoxpub.com/JCSR/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/JCSR"/>
         <outline text="[1429-4-RW] Bulletin for the Study of Religion" title="[1429-4] Bulletin for the Study of Religion" type="rss" 
