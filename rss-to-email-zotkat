@@ -225,5 +225,7 @@
                 xmlUrl="https://www.periodicos.unimontes.br/index.php/revistamandragora/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.periodicos.unimontes.br/index.php/revistamandragora/"/>
         <outline text="[1843-2] Protestantismo em Revista" title="[1843-2] Protestantismo em Revista" type="rss" 
                 xmlUrl="https://revistas.est.edu.br/PR/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://revistas.est.edu.br/PR/"/>
+        <outline text="[1424-2-RW] Temenos" title="[1424-2-RW] Temenos" type="rss" 
+                xmlUrl="https://journal.fi/temenos/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.fi/temenos/"/>
     </body>
     </opml>
