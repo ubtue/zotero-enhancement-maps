@@ -221,7 +221,7 @@
                 xmlUrl="https://www.zygonjournal.org/rss/" htmlUrl="https://www.zygonjournal.org/"/>
         <outline text="[1227-1] Vox Scripturae" title="[1227-1] Vox Scripturae" type="rss" 
                 xmlUrl="https://voxscripturae.com.br/index.php/revista/de/gateway/plugin/WebFeedGatewayPlugin/atom" htmlUrl="https://voxscripturae.com.br/index.php/revista/de/"/>
-        <outline text="[2110-2] Revista Mandrágora" title="[2110-2] Revista Mandrágora" type="rss" 
+        <outline text="[2110-2-RW] Revista Mandrágora" title="[2110-2-RW] Revista Mandrágora" type="rss" 
                 xmlUrl="https://www.periodicos.unimontes.br/index.php/revistamandragora/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.periodicos.unimontes.br/index.php/revistamandragora/"/>
         <outline text="[1843-2] Protestantismo em Revista" title="[1843-2] Protestantismo em Revista" type="rss" 
                 xmlUrl="https://revistas.est.edu.br/PR/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://revistas.est.edu.br/PR/"/>
