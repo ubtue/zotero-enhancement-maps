@@ -227,5 +227,7 @@
                 xmlUrl="https://revistas.est.edu.br/PR/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://revistas.est.edu.br/PR/"/>
         <outline text="[1424-2-RW] Temenos" title="[1424-2-RW] Temenos" type="rss" 
                 xmlUrl="https://journal.fi/temenos/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.fi/temenos/"/>
+        <outline text="[1797-4-RW] HORIZONTE" title="[1797-4-RW] HORIZONTE" type="rss" 
+                xmlUrl="https://periodicos.pucminas.br/horizonte/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://periodicos.pucminas.br/horizonte/"/>
     </body>
     </opml>
