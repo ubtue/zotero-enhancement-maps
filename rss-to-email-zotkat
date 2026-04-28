@@ -231,5 +231,7 @@
                 xmlUrl="https://periodicos.pucminas.br/horizonte/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://periodicos.pucminas.br/horizonte/"/>
         <outline text="[2715-2] Stellenbosch Theological Journal" title="[2715-2] Stellenbosch Theological Journal" type="rss" 
                 xmlUrl="https://ojs.reformedjournals.co.za/index.php/stj/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://ojs.reformedjournals.co.za/index.php/stj/"/>
+        <outline text="[2829-2-RW] European Journal of PCR" title="[2829-2-RW] European Journal of PCR" type="rss" 
+                xmlUrl="https://ajpojournals.org/journals/EJPCR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://ajpojournals.org/journals/EJPCR/"/>
     </body>
     </opml>
