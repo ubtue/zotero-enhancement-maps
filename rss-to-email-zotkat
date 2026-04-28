@@ -233,5 +233,7 @@
                 xmlUrl="https://ojs.reformedjournals.co.za/index.php/stj/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://ojs.reformedjournals.co.za/index.php/stj/"/>
         <outline text="[2829-2-RW] European Journal of PCR" title="[2829-2-RW] European Journal of PCR" type="rss" 
                 xmlUrl="https://ajpojournals.org/journals/EJPCR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://ajpojournals.org/journals/EJPCR/"/>
+        <outline text="[3710-1] BETH Bulletin" title="[3710-1] BETH Bulletin" type="rss" 
+                xmlUrl="https://bethbulletin.eu/ojs/index.php/bethyb/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://bethbulletin.eu/ojs/index.php/bethyb/"/>
     </body>
     </opml>
