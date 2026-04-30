@@ -235,5 +235,7 @@
                 xmlUrl="https://ajpojournals.org/journals/EJPCR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://ajpojournals.org/journals/EJPCR/"/>
         <outline text="[3710-1] BETH Bulletin" title="[3710-1] BETH Bulletin" type="rss" 
                 xmlUrl="https://bethbulletin.eu/ojs/index.php/bethyb/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://bethbulletin.eu/ojs/index.php/bethyb/"/>
+        <outline text="[1710-1] Syria" title="[1710-1] Syria" type="rss" 
+                xmlUrl="http://journals.openedition.org/syria/backend?format=rssnumeros" htmlUrl="http://journals.openedition.org/syria/"/>
     </body>
     </opml>
