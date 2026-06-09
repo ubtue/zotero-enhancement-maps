@@ -100,8 +100,6 @@
                 xmlUrl="https://www.cambridge.org/core/rss/product/id/7513691B30575F8675DF7AC00C63A59E" htmlUrl="https://www.cambridge.org/core/journals/scottish-journal-of-theology/latest-issue"/>
         <outline text="[1302-2] The Asbury Journal" title="[1302-2] The Asbury Journal" type="rss" 
                 xmlUrl="https://place.asburyseminary.edu/asburyjournal/recent.rss" htmlUrl="https://place.asburyseminary.edu/asburyjournal"/>
-        <outline text="[1347-4] The Journal of Ecclesiastical History" title="[1347] The Journal of Ecclesiastical History" type="rss" 
-                xmlUrl="https://www.cambridge.org/core/rss/product/id/8EF6696C5F923E985C82359461BA4F16" htmlUrl="https://www.cambridge.org/core/journals/the-journal-of-ecclesiastical-history/latest-issue"/>
         <outline text="[1861-2] Jonathan Edwards studies" title="[1861-2] Jonathan Edwards studies" type="rss" 
                 xmlUrl="https://jestudies.yale.edu/index.php/journal/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://jestudies.yale.edu/index.php/journal"/>
         <outline text="[1868-1] De Ethica" title="[1868 OJS] De Ethica" type="rss" 
