@@ -237,5 +237,7 @@
                 xmlUrl="http://journals.openedition.org/syria/backend?format=rssnumeros" htmlUrl="http://journals.openedition.org/syria/"/>
         <outline text="[1146-4] Theologie der Gegenwart" title="[1146-4] Theologie der Gegenwart" type="rss" 
                 xmlUrl="https://zs.thulb.uni-jena.de/rsc/feed/jportal_jpjournal_00002815/rss_2.0" htmlUrl="https://zs.thulb.uni-jena.de/rsc/"/>
+        <outline text="[63-1] Anthologica Annua" title="[63-1] Anthologica Annua" type="rss" 
+                xmlUrl="https://anthologicaannua.com/index.php/revista/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://anthologicaannua.com/index.php/revista/"/>
     </body>
     </opml>
