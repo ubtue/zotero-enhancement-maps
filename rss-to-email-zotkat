@@ -116,8 +116,6 @@
                 xmlUrl="https://diakrisis.reviste.ubbcluj.ro/index.php/diakrisis/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://diakrisis.reviste.ubbcluj.ro/index.php/diakrisis"/>
         <outline text="[1762-4] Business Ethics Quarterly" title="[1762-4] Business Ethics Quarterly" type="rss" 
                 xmlUrl="https://www.cambridge.org/core/rss/product/id/4E2E111F97C4EE00B2B907C831C096CB" htmlUrl="https://www.cambridge.org/core/journals/business-ethics-quarterly/latest-issue"/>
-        <outline text="[1514-4] Cambridge Quarterly of Healthcare Ethics" title="[1514-4] Cambridge Quarterly of Healthcare Ethics" type="rss" 
-                xmlUrl="https://www.cambridge.org/core/rss/product/id/608A8A88AE6452F40178C159EB0B2F12" htmlUrl="https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/latest-issue"/>
         <outline text="[1388-4-RW] Revue de l’histoire des religions" title="[1388 OEJ] Revue de l’histoire des religions" type="rss" 
                 xmlUrl="https://journals.openedition.org/rhr/backend?format=rssnumeros" htmlUrl="https://journals.openedition.org/rhr"/>
         <outline text="[1417-2-RW] Journal for the Cognitive Science of Religion" title="[1417] Journal for the Cognitive Science of Religion" type="rss" 
