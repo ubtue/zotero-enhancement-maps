@@ -237,5 +237,7 @@
                 xmlUrl="https://zs.thulb.uni-jena.de/rsc/feed/jportal_jpjournal_00002815/rss_2.0" htmlUrl="https://zs.thulb.uni-jena.de/rsc/"/>
         <outline text="[63-1] Anthologica Annua" title="[63-1] Anthologica Annua" type="rss" 
                 xmlUrl="https://anthologicaannua.com/index.php/revista/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://anthologicaannua.com/index.php/revista/"/>
+        <outline text="[2847-2] Zeitschrift für christlich-jüdische Begegnung im Kontext" title="[2847-2] Zeitschrift für christlich-jüdische Begegnung im Kontext" type="rss" 
+                xmlUrl="https://zfbeg.org/ojs/index.php/cjbk/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://zfbeg.org/ojs/index.php/cjbk/"/>
     </body>
     </opml>
