@@ -241,5 +241,7 @@
                 xmlUrl="https://zfbeg.org/ojs/index.php/cjbk/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://zfbeg.org/ojs/index.php/cjbk/"/>
         <outline text="[2902-1] Orientis Aura" title="[2902-1] Orientis Aura" type="rss" 
                 xmlUrl="https://journals.usj.edu.mo/index.php/orientisaura/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journals.usj.edu.mo/index.php/orientisaura/"/>
+        <outline text="[1803-3-RW] Journal for Cultural and Religious Theory" title="[1803-3-RW] Journal for Cultural and Religious Theory" type="rss" 
+                xmlUrl="https://jcrt.org/feed/feed.xml" htmlUrl="https://jcrt.org/feed/feed.xml/"/>
     </body>
     </opml>
