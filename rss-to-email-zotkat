@@ -243,5 +243,7 @@
                 xmlUrl="https://journals.usj.edu.mo/index.php/orientisaura/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journals.usj.edu.mo/index.php/orientisaura/"/>
         <outline text="[1803-3-RW] Journal for Cultural and Religious Theory" title="[1803-3-RW] Journal for Cultural and Religious Theory" type="rss" 
                 xmlUrl="https://jcrt.org/feed/feed.xml" htmlUrl="https://jcrt.org/feed/feed.xml/"/>
+        <outline text="[3878-3-RW] European Journal for the Critical Study of Religion" title="[3878-3-RW] European Journal for the Critical Study of Religion" type="rss" 
+                xmlUrl="https://journal.equinoxpub.com/EJCSR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.equinoxpub.com/EJCSR/"/>
     </body>
     </opml>
