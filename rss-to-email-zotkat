@@ -246,6 +246,8 @@
         <outline text="[3878-3-RW] European Journal for the Critical Study of Religion" title="[3878-3-RW] European Journal for the Critical Study of Religion" type="rss" 
                 xmlUrl="https://journal.equinoxpub.com/EJCSR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.equinoxpub.com/EJCSR/"/>
         <outline text="[1812-2] Theological Librarianship" title="[1812-2] Theological Librarianship" type="rss" 
-                xmlUrl="https://serials.atla.com/theolib/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://serials.atla.com/theolib/gateway/"/>
+                xmlUrl="https://serials.atla.com/theolib/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://serials.atla.com/theolib/"/>
+        <outline text="[1813-NV] In die Skriflig" title="[1813-NV] In die Skriflig" type="rss" 
+                xmlUrl="https://indieskriflig.org.za/index.php/skriflig/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://indieskriflig.org.za/index.php/skriflig/"/>
     </body>
     </opml>
