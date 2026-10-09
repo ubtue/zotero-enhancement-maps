@@ -249,5 +249,7 @@
                 xmlUrl="https://serials.atla.com/theolib/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://serials.atla.com/theolib/"/>
         <outline text="[1813-NV] In die Skriflig" title="[1813-NV] In die Skriflig" type="rss" 
                 xmlUrl="https://indieskriflig.org.za/index.php/skriflig/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://indieskriflig.org.za/index.php/skriflig/"/>
+        <outline text="[1798-2] INTERAÇÕES" title="[1798-2] INTERAÇÕES" type="rss" 
+                xmlUrl="https://periodicos.pucminas.br/interacoes/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://periodicos.pucminas.br/interacoes/"/>
     </body>
     </opml>
