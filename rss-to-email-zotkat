@@ -251,5 +251,7 @@
                 xmlUrl="https://indieskriflig.org.za/index.php/skriflig/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://indieskriflig.org.za/index.php/skriflig/"/>
         <outline text="[1798-2] INTERAÇÕES" title="[1798-2] INTERAÇÕES" type="rss" 
                 xmlUrl="https://periodicos.pucminas.br/interacoes/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://periodicos.pucminas.br/interacoes/"/>
+        <outline text="[3907-1] Accessible German New Testament Scholarship" title="[3907-1] Accessible German New Testament Scholarship" type="rss" 
+                xmlUrl="https://agntsjournal.com/feed/" htmlUrl="https://agntsjournal.com/"/>
     </body>
     </opml>
