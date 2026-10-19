@@ -253,5 +253,7 @@
                 xmlUrl="https://periodicos.pucminas.br/interacoes/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://periodicos.pucminas.br/interacoes/"/>
         <outline text="[3907-1] Accessible German New Testament Scholarship" title="[3907-1] Accessible German New Testament Scholarship" type="rss" 
                 xmlUrl="https://agntsjournal.com/feed/" htmlUrl="https://agntsjournal.com/"/>
+        <outline text="[1839-3] Religião & Sociedade" title="[1839-3] Religião & Sociedade" type="rss" 
+                xmlUrl="https://www.scielo.br/journal/rs/feed/?ilang=en" htmlUrl="https://www.scielo.br/journal/rs/"/>
     </body>
     </opml>
