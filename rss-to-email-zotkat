@@ -256,6 +256,8 @@
         <outline text="[1839-3] Religião & Sociedade" title="[1839-3] Religião & Sociedade" type="rss" 
                 xmlUrl="https://www.scielo.br/journal/rs/feed/?ilang=en" htmlUrl="https://www.scielo.br/journal/rs/"/>
         <outline text="[360-2] Estudios Trinitarios" title="[360-2] Estudios Trinitarios" type="rss" 
-                xmlUrl="https://revistas.secretariadotrinitario.org/estudiostrinitarios/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.secretariadotrinitario.org/estudiostrinitarios//"/>
+                xmlUrl="https://revistas.secretariadotrinitario.org/estudiostrinitarios/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.secretariadotrinitario.org/estudiostrinitarios/"/>
+        <outline text="[301-2] DavarLogos" title="[301-2] DavarLogos" type="rss" 
+                xmlUrl="https://publicaciones.uap.edu.ar/index.php/davarlogos/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://publicaciones.uap.edu.ar/index.php/davarlogos/"/>
     </body>
     </opml>
