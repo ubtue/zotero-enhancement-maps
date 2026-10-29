@@ -259,5 +259,7 @@
                 xmlUrl="https://revistas.secretariadotrinitario.org/estudiostrinitarios/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.secretariadotrinitario.org/estudiostrinitarios/"/>
         <outline text="[301-2] DavarLogos" title="[301-2] DavarLogos" type="rss" 
                 xmlUrl="https://publicaciones.uap.edu.ar/index.php/davarlogos/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://publicaciones.uap.edu.ar/index.php/davarlogos/"/>
+        <outline text="[1171-2] Nordic Journal of Practical Theology" title="[1171-2] Nordic Journal of Practical Theology" type="rss" 
+                xmlUrl="https://journals.mf.no/tpt/en/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journals.mf.no/tpt/en/"/>
     </body>
     </opml>
