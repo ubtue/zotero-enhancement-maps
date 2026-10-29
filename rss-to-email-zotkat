@@ -255,5 +255,7 @@
                 xmlUrl="https://agntsjournal.com/feed/" htmlUrl="https://agntsjournal.com/"/>
         <outline text="[1839-3] Religião & Sociedade" title="[1839-3] Religião & Sociedade" type="rss" 
                 xmlUrl="https://www.scielo.br/journal/rs/feed/?ilang=en" htmlUrl="https://www.scielo.br/journal/rs/"/>
+        <outline text="[360-2] Estudios Trinitarios" title="[360-2] Estudios Trinitarios" type="rss" 
+                xmlUrl="https://revistas.secretariadotrinitario.org/estudiostrinitarios/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://revistas.secretariadotrinitario.org/estudiostrinitarios//"/>
     </body>
     </opml>
