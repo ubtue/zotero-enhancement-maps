@@ -50,8 +50,6 @@
                 xmlUrl="https://www.pdcnet.org/pdc/bvdb.nsf/getrssxml?openagent&amp;synonym=philtheol" htmlUrl="http://www.pdcnet.org"/>
         <outline text="[955-2] Revue des sciences religieuses" title="[955-2] Revue des sciences religieuses" type="rss" 
                 xmlUrl="https://journals.openedition.org/rsr/backend?format=rssnumeros" htmlUrl="http://journals.openedition.org/rsr"/>
-        <outline text="[1110-1] Svensk Exegetisk Årsbok " title="[1110] Svensk Exegetisk Årsbok " type="rss" 
-                xmlUrl="https://publicera.kb.se/sea/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://publicera.kb.se/sea"/>
         <outline text="[2046-1] Journal of Coptic Studies" title="[2046-1] Journal of Coptic Studies" type="rss" 
                 xmlUrl="http://poj.peeters-leuven.be/RSS/JCS.xml" htmlUrl="http://poj.peeters-leuven.be/content.php?url=journal&amp;journal_code=JCS"/>
         <outline text="[2847-2] Zs. für christlich-jüdische Begegnung im Kontext" title="[2847] Zeitschrift für christlich-jüdische Begegnung im Kontext" type="rss" 
@@ -84,8 +82,6 @@
                 xmlUrl="https://www.uni-muenster.de/Ejournals/index.php/jcsw/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.uni-muenster.de/Ejournals/index.php/jcsw"/>
         <outline text="[3136-2] LIMINA - Grazer theologische Perspektiven" title="[3136 ] LIMINA - Grazer theologische Perspektiven" type="rss" 
                 xmlUrl="https://unipub.uni-graz.at/limina/rss" htmlUrl="https://unipub.uni-graz.at/limina/rss"/>
-        <outline text="[3537-4] Zeitschrift für Theologie und Philosophie" title="[3537] Zeitschrift für Theologie und Philosophie" type="rss" 
-                xmlUrl="https://ztp.jesuiten.org/index.php/ZTP/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://ztp.jesuiten.org/ZTP"/>
         <outline text="[87-1] Archivo Dominicano" title="[87] Archivo Dominicano" type="rss" 
                 xmlUrl="https://archivodominicano.dominicos.org/ojs/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://archivodominicano.dominicos.org/ojs"/>
         <outline text="[702-4] Medellín" title="[702-4] Medellín" type="rss" 
@@ -110,8 +106,6 @@
                 xmlUrl="https://heiup.uni-heidelberg.de/journals/cursor/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://heiup.uni-heidelberg.de/journals/cursor"/>
         <outline text="[3571-1] Hermeneutische Blätter" title="[3571] Hermeneutische Blätter" type="rss" 
                 xmlUrl="https://www.hermeneutische-blaetter.uzh.ch/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.hermeneutische-blaetter.uzh.ch/"/>
-        <outline text="[884-2] Quaker Studies" title="[884-2] Quaker Studies" type="rss" 
-                xmlUrl="https://quakerstudies.openlibhums.org/feed/" htmlUrl="https://quakerstudies.openlibhums.org/articles/"/>
         <outline text="[3662-1] Diakrisis Yearbook of Theology and Philosophy" title="[3662-1] Diakrisis Yearbook of Theology and Philosophy" type="rss" 
                 xmlUrl="https://diakrisis.reviste.ubbcluj.ro/index.php/diakrisis/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://diakrisis.reviste.ubbcluj.ro/index.php/diakrisis"/>
         <outline text="[1762-4] Business Ethics Quarterly" title="[1762-4] Business Ethics Quarterly" type="rss" 
@@ -134,16 +128,12 @@
                 xmlUrl="https://journal.equinoxpub.com/IJSNR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.equinoxpub.com/IJSNR"/>
         <outline text="[1735-1-RW] Zeitschrift für junge Religionswissenschaft" title="[1735] Zeitschrift für junge Religionswissenschaft" type="rss" 
                 xmlUrl="https://junge-religionswissenschaft.de/ojs/index.php/zjr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://junge-religionswissenschaft.de/ojs/index.php/zjr"/>
-        <outline text="[1783-1-RW] Marburg Journal of Religion" title="[1783] Marburg Journal of Religion" type="rss" 
-                xmlUrl="https://archiv.ub.uni-marburg.de/ep/0004/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://archiv.ub.uni-marburg.de/ep/0004"/>
         <outline text="[1795-3-RW] Revista Brasileira de História das Religiões" title="[1795] Revista Brasileira de História das Religiões" type="rss" 
                 xmlUrl="https://periodicoseletronicos.ufma.br/index.php/rbhr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://periodicoseletronicos.ufma.br/index.php/rbhr/"/>
         <outline text="[1822-3-RW] Journal for the Study of Religions Ideologies" title="[1822] Journal for the Study of Religions and Ideologies" type="rss" 
                 xmlUrl="https://thenewjsri.ro/index.php/njsri/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://thenewjsri.ro/index.php/njsri"/>
         <outline text="[1882-3-RW] Religions of South Asia" title="[1882] Religions of South Asia" type="rss" 
                 xmlUrl="https://journal.equinoxpub.com/ROSA/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/ROSA"/>
-        <outline text="[1979-?-RW] Entangled Religions" title="[1979] Entangled Religions" type="rss" 
-                xmlUrl="https://er.ceres.rub.de/index.php/ER/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://er.ceres.rub.de/index.php/ER"/>
         <outline text="[1987-2-RW] Fieldwork in Religion" title="[1987-2] Fieldwork in Religion" type="rss" 
                 xmlUrl="https://journal.equinoxpub.com/FIR/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/FIR"/>
         <outline text="[2002-2-RW] Ilorin Journal of Religious Studies" title="[2002-2] Ilorin Journal of Religious Studies" type="rss" 
