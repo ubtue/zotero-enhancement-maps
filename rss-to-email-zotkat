@@ -128,8 +128,6 @@
                 xmlUrl="https://journal.equinoxpub.com/IJSNR/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://journal.equinoxpub.com/IJSNR"/>
         <outline text="[1735-1-RW] Zeitschrift für junge Religionswissenschaft" title="[1735] Zeitschrift für junge Religionswissenschaft" type="rss" 
                 xmlUrl="https://junge-religionswissenschaft.de/ojs/index.php/zjr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://junge-religionswissenschaft.de/ojs/index.php/zjr"/>
-        <outline text="[1795-3-RW] Revista Brasileira de História das Religiões" title="[1795] Revista Brasileira de História das Religiões" type="rss" 
-                xmlUrl="https://periodicoseletronicos.ufma.br/index.php/rbhr/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://periodicoseletronicos.ufma.br/index.php/rbhr/"/>
         <outline text="[1822-3-RW] Journal for the Study of Religions Ideologies" title="[1822] Journal for the Study of Religions and Ideologies" type="rss" 
                 xmlUrl="https://thenewjsri.ro/index.php/njsri/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://thenewjsri.ro/index.php/njsri"/>
         <outline text="[1882-3-RW] Religions of South Asia" title="[1882] Religions of South Asia" type="rss" 
