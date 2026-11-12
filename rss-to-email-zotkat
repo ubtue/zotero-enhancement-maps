@@ -16,14 +16,10 @@
                 xmlUrl="https://journal.equinoxpub.com/PENT/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://journal.equinoxpub.com/PENT"/>
         <outline text="[948-4] Revue d&#39;Histoire et de Philosophie religieuses" title="[948] Revue d&#39;Histoire et de Philosophie religieuses" type="rss" 
                 xmlUrl="https://classiques-garnier.com/feed/catalog/fr_FR/335" htmlUrl="https://classiques-garnier.com/revue-d-histoire-et-de-philosophie-religieuses.html"/>
-        <outline text="[1127-4] Teología y Vida" title="[1127-4] Teología y Vida" type="rss" 
-                xmlUrl="https://teologiayvida.uc.cl/index.php/tyv/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://teologiayvida.uc.cl/index.php/tyv"/>
         <outline text="[1313-4] Harvard Theological Review" title="[1313] Harvard Theological Review" type="rss" 
                 xmlUrl="https://www.cambridge.org/core/rss/product/id/F1768E6E180CAD06C94C302E6E4DE3F9" htmlUrl="https://www.cambridge.org/core/journals/harvard-theological-review/latest-issue"/>
         <outline text="[1739-1] Koers - Bulletin for Christian Scholarship" title="[1739] Koers - Bulletin for Christian Scholarship" type="rss" 
                 xmlUrl="https://www.koersjournal.org.za/index.php/koers/gateway/plugin/WebFeedGatewayPlugin/rss" htmlUrl="https://www.koersjournal.org.za/index.php/koers"/>
-        <outline text="[1846-3] Veritas " title="[1846] Veritas " type="rss" 
-                xmlUrl="https://ojs.uc.cl/index.php/veritas/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://ojs.uc.cl/index.php/veritas"/>
         <outline text="[2169-3] Review of Ecumenical Studies Sibiu Feed" title="[2169] Review of Ecumenical Studies Sibiu Feed" type="rss" 
                 xmlUrl="https://intapi.sciendo.com/rss/journal/RESS" htmlUrl="https://sciendo.com/journal/RESS"/>
         <outline text="[2529-2] Journal for Religion, Film and Media (JRFM)" title="[2529] Journal for Religion, Film and Media (JRFM)" type="rss" 
